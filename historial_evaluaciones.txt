@@ -1,0 +1,3475 @@
+[2026-06-16 11:53:08]
+Texto extraido de Gemini:
+soy tu fan [emoji_cara_sonriendo_con_corazones][emoji_cara_lanzando_un_beso] Quien eres? [emoji_cara_pensativa] puedo [emoji_cara_sonrojada][emoji_berenjena][emoji_interrogación_roja] No, que asco. No se quien eres [emoji_prohibido][emoji_cara_de_náuseas] Ademas, tengo novia [emoji_cara_desanimada] pq me tratas así preciosa?? [emoji_cara_desanimada][emoji_cara_desanimada] yo solo kiero aserte feliz [emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones][emoji_cara_lanzando_un_beso] nonono porfa no [emoji_manos_en_oración][emoji_manos_en_oración] Te voy a bloquear, adiós [emoji_cara_besando_con_ojos_sonrientes] [emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte]\Resultado: Acoso
+  - asco: 0.0387
+  - que: 0.0162
+  - eres: 0.0137
+  - enj: 0.011
+  - ena: 0.011
+  - pro: 0.0072
+  - hib: 0.0072
+  - ido: 0.0072
+  - ber: 0.0067
+  - cara: 0.0057
+  - quien: 0.0054
+  - ien: 0.0053
+  - fan: 0.0052
+  - ando: 0.0048
+  - lor: 0.0048
+FIN DE PRUEBA[2026-06-16 12:04:35]
+Texto extraido de Gemini:
+Hola si quiero ver tu [emoji_pingüino] Abierto Te toca [emoji_berenjena] Hola ? Wow q riko [emoji_cara_saboreando_comida] Foto Wow que grande [emoji_berenjena][emoji_señal_de_aprobación_con_la_mano]\Resultado: Neutral
+  - apro: 0.0061
+  - ñal: 0.0049
+  - bación: 0.0043
+  - que: 0.003
+  - grande: 0.003
+  - iko: 0.0023
+  - con: 0.0023
+  - Hola: 0.0022
+  - quiero: 0.002
+  - abor: 0.002
+  - eando: 0.002
+  - toca: 0.0014
+  - enj: 0.0011
+  - ena: 0.001
+  - Foto: 0.001
+FIN DE PRUEBA[2026-06-20 15:03:08]
+Texto extraido de Gemini:
+Hola amiga, quieres coger[emoji_cara_sonriendo_con_sudor_frío]
+no cabron que puto asco
+Orale, no te vas a arrepentir[emoji_berenjena][emoji_gotas_de_sudor]
+Te voy a bloquear, adios. pendejo\Resultado: Acoso
+  - asco: 0.1121
+  - puto: 0.0987
+  - quieres: 0.0602
+  - amiga: 0.056
+  - que: 0.0376
+  - coger: 0.0298
+  - bloquear: 0.0253
+  - ale: 0.0243
+  - voy: 0.0158
+  - Hola: 0.0149
+  - vas: 0.0133
+  - ber: 0.0122
+  - cab: 0.0119
+  - ron: 0.0111
+  - cara: 0.01
+FIN DE PRUEBA[2026-06-20 15:04:22]
+Texto extraido de Gemini:
+Sube una captura de pantalla para detectar posibles señales de violencia digital. Seleccionar Captura\Resultado: Neutral
+  - captura: 0.2359
+  - pantalla: 0.1488
+  - tura: 0.1472
+  - violencia: 0.1119
+  - detectar: 0.0928
+  - una: 0.0795
+  - Sub: 0.0707
+  - posibles: 0.0529
+  - para: 0.0376
+  - Cap: 0.0309
+  - Selec: 0.0258
+  - señales: 0.0212
+  - digital: 0.018
+  - cionar: 0.0052
+FIN DE PRUEBA[2026-06-20 15:13:04]
+Texto extraido de Gemini:
+Sube una captura de pantalla para detectar posibles señales de violencia digital. [emoji_cámara_con_flash] Seleccionar Captura\Resultado: Neutral
+  - pantalla: 0.1552
+  - violencia: 0.1106
+  - detectar: 0.0861
+  - captura: 0.0854
+  - tura: 0.076
+  - posibles: 0.0585
+  - Sub: 0.0421
+  - Cap: 0.0279
+  - cionar: 0.0251
+  - cámara: 0.0214
+  - Selec: 0.0131
+  - lash: 0.013
+  - señales: 0.0111
+  - para: 0.0101
+  - digital: 0.0099
+FIN DE PRUEBA[2026-06-20 15:14:34]
+Texto extraido de Gemini:
+Turn on sync? Sync your passwords, history & more on all devices Google may use your history to personalize Search and other Google services You can always choose what to sync in settings. No thanks Add account\Resultado: Neutral
+  - account: 0.0101
+  - words: 0.0068
+  - han: 0.0058
+  - your: 0.0032
+  - You: 0.002
+  - can: 0.002
+  - ices: 0.0019
+  - arch: 0.0019
+  - serv: 0.0019
+  - and: 0.0018
+  - Tur: 0.0017
+  - ways: 0.0014
+  - set: 0.0014
+  - tings: 0.0014
+  - cho: 0.0013
+FIN DE PRUEBA[2026-06-20 16:00:22]
+Texto extraido de Gemini:
+Hola amiga, quieres coger [emoji_cara_con_manos_abrazando] no cabron que puto asco Orale, no te vas a arrepentir [emoji_berenjena][emoji_gotas_de_sudor] Te voy a bloquear, adios. pendejo\Resultado: Acoso
+  - asco: 0.1367
+  - puto: 0.0627
+  - quieres: 0.0549
+  - bloquear: 0.0402
+  - que: 0.0388
+  - amiga: 0.0359
+  - coger: 0.0313
+  - Hola: 0.0284
+  - ale: 0.0252
+  - voy: 0.0232
+  - vas: 0.0228
+  - manos: 0.0125
+  - ber: 0.0119
+  - enj: 0.0117
+  - cab: 0.0111
+FIN DE PRUEBA[2026-06-20 16:39:53]
+Texto extraido de Gemini:
+Hola guapo [emoji_cara_sonriendo_con_corazones][emoji_cara_lanzando_un_beso] Quien eres? [emoji_cara_pensativa] soy tu fan [emoji_cara_babeando][emoji_cara_lanzando_un_beso] puedo [emoji_ojos][emoji_berenjena] ? No, que asco. No se quien eres [emoji_prohibido][emoji_cara_de_náuseas] Ademas, tengo novia [emoji_cara_con_el_ceño_ligeramente_fruncido] pq me tratas así preciosa?? [emoji_cara_suplicante][emoji_cara_desanimada] yo solo kiero aserte feliz [emoji_cara_llorando_fuerte][emoji_cara_besando][emoji_cara_sonriendo_con_corazones] Te voy a bloquear, adiós [emoji_cara_agotada] nonono porfa no [emoji_manos_en_oración] [emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte]\Resultado: Acoso
+  - asco: 0.0234
+  - que: 0.0154
+  - eres: 0.0135
+  - voy: 0.0094
+  - bloquear: 0.0094
+  - tra: 0.0084
+  - tas: 0.0084
+  - hib: 0.0074
+  - ido: 0.0074
+  - así: 0.0072
+  - preciosa: 0.0072
+  - pro: 0.0071
+  - quien: 0.0064
+  - cara: 0.0059
+  - ien: 0.005
+FIN DE PRUEBA[2026-06-20 17:32:06]
+Texto extraido de Gemini:
+[emoji_dedo_índice_hacia_arriba] Supongo que debí haberlo visto venir. [emoji_cara_revolviéndose_de_la_risa] [emoji_infinito][emoji_candado_cerrado][emoji_gallina] ¿Pollo con candado morado? [emoji_dorso_de_mano_con_índice_a_la_derecha][emoji_señal_de_aprobación_con_la_mano][emoji_interrogación_roja] [emoji_cara_estupefacta][emoji_berenjena]?\Resultado: Acoso
+  - enj: 0.0222
+  - ñal: 0.0191
+  - ber: 0.0181
+  - ena: 0.0095
+  - mano: 0.008
+  - hacia: 0.0079
+  - dice: 0.0074
+  - morado: 0.0067
+  - edo: 0.0063
+  - riba: 0.006
+  - can: 0.0055
+  - dado: 0.0055
+  - fac: 0.0054
+  - pongo: 0.0042
+  - cara: 0.0042
+FIN DE PRUEBA[2026-06-20 17:33:40]
+Texto extraido de Gemini:
+[emoji_cara_pensativa][emoji_berenjena] ? [emoji_cara_sonriendo_con_cuernos] [emoji_boca][emoji_mochila_escolar][emoji_berenjena][emoji_berenjena][emoji_berenjena] [emoji_cara_con_monóculo] [emoji_círculo_negro] (inspecciona mi agujero) [borrado] [borrado]\Resultado: Acoso
+  - agujero: 0.0287
+  - bor: 0.0155
+  - rado: 0.0136
+  - ber: 0.0082
+  - enj: 0.0078
+  - nos: 0.0074
+  - cara: 0.0072
+  - ena: 0.0067
+  - con: 0.005
+  - cuer: 0.0049
+  - pensa: 0.0035
+  - tiva: 0.0033
+  - culo: 0.0033
+  - ins: 0.0032
+  - pec: 0.0032
+FIN DE PRUEBA[2026-06-20 17:34:22]
+Texto extraido de Gemini:
+Desde cuándo importa quién usa emojis? La Gen Alpha los usa... los Millennials también... Alguien con cara de póker [emoji_cara_llorando_fuerte][emoji_cara_radiante_con_ojos_sonrientes] [emoji_berenjena][emoji_gotas_de_sudor] S Ughhhhhhhh "SOLO LOS MÁS FUERTES SOBREVIVIRÁN" Soy bien hablador y travieso, y también estoy demasiado cansado.\Resultado: Neutral
+  - cansado: 0.0077
+  - estoy: 0.0057
+  - demasiado: 0.0057
+  - también: 0.0055
+  - enj: 0.0034
+  - ena: 0.0034
+  - VIR: 0.0033
+  - hhhh: 0.0031
+  - ber: 0.003
+  - los: 0.0028
+  - usa: 0.0025
+  - Desde: 0.0024
+  - ials: 0.0024
+  - lor: 0.0021
+  - ando: 0.0021
+FIN DE PRUEBA[2026-06-20 17:37:10]
+Texto extraido de Gemini:
+Gant hora, la neta le cómo to enoja. O solo una, innecesaria al final de una frase aburrida. [emoji_cara_con_manos_abrazando] No hay [emoji_marca_de_cruz] problema [emoji_llama] con [emoji_cara_decepcionada] eso [emoji_cara_feliz_con_ojos_sonrientes]. ¿En serio [emoji_cara_con_ceja_alzada] vas a [emoji_cara_sonrojada] darle importancia [emoji_cara_preocupada] a eso [emoji_cara_de_empollón] también [emoji_cabeza_explotando]? ¿En serio [emoji_cara_pensativa]? [emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte] Es que hay chats que pueden tener doble sentido, o se pueden malinterpretar; los emojis ayudan a cerrar esa brecha. Yo también hago eso, porque si no, parece que uno es muy serio o da una "respuesta fría" (basado en cómo formulo mis mensajes), lo hago para parecer amable, atento y accesible. Esto\Resultado: Neutral
+  - mal: 0.0039
+  - interpre: 0.0039
+  - tar: 0.0039
+  - parecer: 0.0033
+  - amable: 0.003
+  - innecesaria: 0.0024
+  - porque: 0.0022
+  - solo: 0.0021
+  - una: 0.0021
+  - los: 0.0021
+  - neta: 0.0018
+  - frase: 0.0017
+  - aburrida: 0.0016
+  - serio: 0.0016
+  - muy: 0.0016
+FIN DE PRUEBA[2026-06-20 17:42:33]
+Texto extraido de Gemini:
+Bueno uno menos supongo (si es que no lo mataron) Que felicidad cuando reciben su merecido (ᴗ ω ᴗ)[emoji_manos_en_oración] *Sonrisa reconfortante\Resultado: Neutral
+  - Son: 0.0185
+  - manos: 0.0139
+  - tante: 0.0121
+  - que: 0.0077
+  - mataron: 0.0066
+  - reciben: 0.0064
+  - cuando: 0.0059
+  - merecido: 0.0057
+  - risa: 0.0052
+  - supongo: 0.0051
+  - Que: 0.005
+  - oración: 0.0047
+  - reconfor: 0.0038
+  - felicidad: 0.0029
+  - Bueno: 0.0005
+FIN DE PRUEBA[2026-06-20 17:50:18]
+Texto extraido de Gemini:
+[emoji_cara_llorando_fuerte][emoji_puñal][emoji_corazón_humano][emoji_calavera] [emoji_cara_llorando_fuerte][emoji_cuchillo_de_cocina][emoji_ataúd] [emoji_bandera_estados_unidos][emoji_bandera_estados_unidos][emoji_águila][emoji_águila][emoji_águila] [emoji_estatua_de_la_libertad][emoji_bandera_estados_unidos][emoji_hamburguesa][emoji_águila][emoji_botón_de_marca_de_verificación] [emoji_lazo][emoji_lazo] [emoji_chispas][emoji_señal_de_aprobación_con_la_mano][emoji_chispas]\Resultado: Neutral
+  - tados: 0.0044
+  - era: 0.004
+  - ambur: 0.004
+  - guesa: 0.004
+  - libertad: 0.0034
+  - band: 0.0031
+  - cara: 0.0029
+  - idos: 0.0028
+  - lazo: 0.0028
+  - mano: 0.0026
+  - ñal: 0.0025
+  - chis: 0.0025
+  - pas: 0.0025
+  - avera: 0.0016
+  - chillo: 0.0016
+FIN DE PRUEBA[2026-06-21 11:36:50]
+Texto extraido de Gemini:
+-Wilthon Si hubiera metido 2.5 de España :( Ya verde :( Esta madre Qpd Te dije Ni lo metí Fak Al rato a Bélgica 2.5 totales bro Na Difícil Nmms Es contra iran Irán queda fuera ya -Wilthon Es contra iran La vez pasada contra egipto\Resultado: Neutral
+  - Bélgica: 0.0493
+  - dije: 0.0221
+  - vez: 0.0196
+  - contra: 0.0178
+  - madre: 0.0145
+  - metido: 0.0144
+  - iran: 0.014
+  - pasada: 0.0123
+  - totales: 0.0082
+  - bro: 0.0073
+  - Dif: 0.0071
+  - ícil: 0.0056
+  - thon: 0.0053
+  - gipto: 0.0046
+  - rato: 0.0043
+FIN DE PRUEBA[2026-06-21 11:38:03]
+Texto extraido de Gemini:
+[emoji_dedo_corazón_hacia_arriba][emoji_cara_sonriendo_con_cuernos][emoji_berenjena][emoji_gotas_de_sudor] oye, por favor deja de insinuarme ese tipo de cosas, no me parece [emoji_cara_de_desaprobación] [emoji_grupo_sanguíneo_a][emoji_ojos][emoji_ojos][emoji_puño_cerrado][emoji_melocotón] [emoji_manos_en_oración] qpd q es A? [emoji_cara_haciendo_una_mueca] Ay pendeja Está en clave\Resultado: Acoso
+  - con: 0.0602
+  - insinu: 0.0567
+  - arme: 0.0482
+  - favor: 0.0454
+  - cuer: 0.0325
+  - tipo: 0.0325
+  - nos: 0.0313
+  - ese: 0.0309
+  - deja: 0.0304
+  - una: 0.0214
+  - por: 0.0194
+  - ueca: 0.016
+  - cosas: 0.0159
+  - parece: 0.0112
+  - son: 0.0103
+FIN DE PRUEBA[2026-06-21 11:42:09]
+Texto extraido de Gemini:
+Hola no quieres ver mi [emoji_berenjena][emoji_cara_sonriendo_con_cuernos] Hola si quiero ver tu [emoji_pingüino] Abierto Te toca [emoji_berenjena] Hola ? Wow q riko[emoji_cara_saboreando_comida] Foto Wow que grande [emoji_berenjena][emoji_señal_de_aprobación_con_la_mano] Wow amor Vas a salir JAJAJAJJAJA En mi presentación Wow\Resultado: Neutral
+  - Abierto: 0.0733
+  - toca: 0.0651
+  - quieres: 0.0468
+  - quiero: 0.0398
+  - Hola: 0.0362
+  - con: 0.0183
+  - nos: 0.0168
+  - riendo: 0.0154
+  - cuer: 0.0117
+  - enj: 0.0112
+  - ver: 0.0102
+  - son: 0.0098
+  - ena: 0.0091
+  - ber: 0.0088
+  - ingü: 0.0071
+FIN DE PRUEBA[2026-06-21 11:44:35]
+Texto extraido de Gemini:
+Enséñame tu vrg rica [emoji_cara_babeando][emoji_cara_babeando] Hola, porfavor no me molestes Como tienes mi número? quiero ver cuánto te mide [emoji_mano_pellizcando] [emoji_cara_suplicante][emoji_manos_en_oración][emoji_manos_en_oración][emoji_manos_en_oración] Como tienes mi número? Soy tu fan, anda enséñame un poco Déjame en paz, te voy a bloquear, naca Si así te gusta que te traten, putita [emoji_marca_de_beso]\Resultado: Acoso
+  - moles: 0.1205
+  - tes: 0.0762
+  - favor: 0.057
+  - bloquear: 0.0378
+  - ame: 0.0366
+  - traten: 0.0297
+  - que: 0.0224
+  - voy: 0.0219
+  - Como: 0.0176
+  - así: 0.0167
+  - paz: 0.0135
+  - por: 0.0128
+  - número: 0.0126
+  - tienes: 0.0115
+  - abe: 0.0066
+FIN DE PRUEBA[2026-06-21 11:47:49]
+Texto extraido de Gemini:
+... [emoji_berenjena] ? [emoji_cara_suplicante] [emoji_cara_babeando] ? [emoji_cara_con_la_boca_abierta] OK [emoji_boca] [emoji_fuego] [emoji_cara_con_ojos_en_blanco] [emoji_cara_con_ojos_en_blanco] [emoji_cara_de_náuseas] [emoji_cara_desanimada] [emoji_manos_en_oración] [emoji_prohibido] [emoji_prohibido]\Resultado: Acoso
+  - hib: 0.0925
+  - pro: 0.058
+  - ido: 0.0471
+  - áus: 0.0338
+  - eas: 0.0294
+  - manos: 0.018
+  - blanco: 0.0156
+  - jos: 0.0144
+  - boca: 0.0141
+  - enj: 0.0089
+  - ena: 0.0087
+  - ber: 0.0085
+  - cara: 0.0082
+  - uego: 0.0056
+  - con: 0.0049
+FIN DE PRUEBA[2026-06-21 11:48:31]
+Texto extraido de Gemini:
+Hola guapo Quien eres? Soy tu fan Puedo ver tu vrg ?? No que asco, no se quien eres pq me tratas así preciosa??? si yo solo kiero hacerte feliz Te voy a bloquear, adiós nonono porfa no Es que me estas incomodando dime q puedo hacer para hacerte feliz Nada, no se quien eres\Resultado: Acoso
+  - feliz: 0.1729
+  - quien: 0.1117
+  - dime: 0.0816
+  - asco: 0.0663
+  - eres: 0.0658
+  - estas: 0.0641
+  - adiós: 0.0596
+  - hacerte: 0.059
+  - bloquear: 0.0559
+  - Hola: 0.0523
+  - incomod: 0.0423
+  - Nada: 0.0257
+  - tra: 0.0242
+  - que: 0.0192
+  - para: 0.0192
+FIN DE PRUEBA[2026-06-21 11:49:48]
+Texto extraido de Gemini:
+Hola guapo [emoji_cara_sonriendo_con_corazones][emoji_cara_lanzando_un_beso] Quien eres? [emoji_cara_pensativa] soy tu fan [emoji_cara_babeando][emoji_cara_besando] puedo [emoji_ojos][emoji_berenjena][emoji_interrogación_roja] No, que asco. No se quien eres [emoji_prohibido][emoji_cara_de_náuseas] Ademas, tengo novia [emoji_cara_desanimada] pq me tratas así preciosa?? [emoji_cara_desanimada][emoji_cara_desanimada] yo solo kiero aserte feliz [emoji_cara_suplicante][emoji_cara_besando][emoji_cara_sonriendo_con_corazones] Te voy a bloquear, adiós [emoji_cara_agotada] nonono porfa no [emoji_manos_en_oración][emoji_manos_en_oración] [emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte]\Resultado: Acoso
+  - eres: 0.0723
+  - Hola: 0.0485
+  - quien: 0.0334
+  - hib: 0.0271
+  - ido: 0.0271
+  - pro: 0.027
+  - eso: 0.025
+  - cora: 0.0235
+  - voy: 0.0226
+  - bloquear: 0.0221
+  - zones: 0.022
+  - áus: 0.019
+  - eas: 0.019
+  - ien: 0.0188
+  - emas: 0.0135
+FIN DE PRUEBA[2026-06-21 11:51:11]
+Texto extraido de Gemini:
+Ya aqui En el mb Ahhh ok ok Entonces ya le digo que pues ya estamos aquí? Si jajaa La joy fue? Me anda preguntando si si va a ver En que salon estas 2202 Voy Va para que vaya con el proyector Pero necesito que te quedes para que no me roben la mochila y el salon Voiot Es que me eche un cake Jajajajaja\Resultado: Neutral
+  - quedes: 0.0167
+  - para: 0.012
+  - proyector: 0.0119
+  - mochila: 0.0105
+  - que: 0.0093
+  - eche: 0.0075
+  - vaya: 0.0056
+  - rob: 0.0042
+  - necesito: 0.0039
+  - ajaj: 0.0038
+  - ver: 0.0036
+  - salon: 0.0036
+  - preguntando: 0.0035
+  - con: 0.0031
+  - estamos: 0.0025
+FIN DE PRUEBA[2026-06-21 12:08:52]
+Texto extraido de Gemini:
+\Resultado: Neutral
+FIN DE PRUEBA[2026-06-21 12:10:43]
+Texto extraido de Gemini:
+si Okas gracias amor, igual es si terminamos a esa hora sino ni modo Si lo hiciste con base en el mío? Es que le faltan cosas Vaya, no esta conectado A ver déjame checar Según yo si JAJAJ\Resultado: Neutral
+  - déj: 0.1476
+  - ame: 0.0952
+  - gracias: 0.0802
+  - conectado: 0.0726
+  - ver: 0.0571
+  - terminamos: 0.0373
+  - que: 0.0372
+  - hora: 0.0308
+  - amor: 0.0269
+  - esta: 0.0145
+  - faltan: 0.0141
+  - aya: 0.0132
+  - hiciste: 0.0087
+  - Según: 0.0082
+  - mío: 0.0081
+FIN DE PRUEBA[2026-06-21 12:13:38]
+Texto extraido de Gemini:
+Y ustedes? Pues segun ya acabamos Pero nos falta subir las cosa No ma neta? Simon Que pedo me inspiraste a chambear jajaja [emoji_cara_llorando_de_risa] Oye lo del data set ustedes lo pusieron en el cap 3 o 4? 3 mariano Corresponde al desarrollo Bueno, en nuestro caso Va va gracias\Resultado: Neutral
+  - ustedes: 0.0075
+  - desarrollo: 0.0064
+  - subir: 0.0051
+  - acabamos: 0.0043
+  - inspir: 0.0043
+  - nos: 0.0036
+  - nuestro: 0.0029
+  - Pues: 0.0023
+  - aste: 0.0022
+  - falta: 0.0019
+  - Simon: 0.0016
+  - neta: 0.0014
+  - jajaja: 0.0012
+  - Pero: 0.0011
+  - responde: 0.0011
+FIN DE PRUEBA[2026-06-21 12:23:28]
+Texto extraido de Gemini:
+Mami ya cumplí 15, me puedo poner faldita? [emoji_mono_con_la_boca_tapada] No! Maquillarme? [emoji_cara_guiñando_el_ojo] Noo! Tanguitas mami? [emoji_cara_sonriendo_con_cuernos] Noooo! Blusitas mami? [emoji_cara_preocupada] Te dije que NO DANIEL!\Resultado: Acoso
+  - cuer: 0.129
+  - nos: 0.1019
+  - con: 0.0918
+  - lar: 0.0411
+  - Tan: 0.0354
+  - quil: 0.0296
+  - cara: 0.0233
+  - guitas: 0.02
+  - riendo: 0.0189
+  - ooo: 0.0179
+  - son: 0.0173
+  - ojo: 0.0135
+  - mam: 0.0115
+  - dije: 0.0052
+  - que: 0.0052
+FIN DE PRUEBA[2026-06-21 12:24:07]
+Texto extraido de Gemini:
+¡Oye! ¿no quieres ser mi novio? pero... si tu tienes esposo!! [emoji_cara_triste_pero_aliviada] Si pero novio no. [emoji_cara_suplicante] ah buen punto!! entonces asi si!!! [emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones] Te amo!! [emoji_rosa][emoji_corazón_negro] [emoji_cara_sonriendo_con_corazones] yo mas Te dejo, ya viene mi esposo. ok me escribes al rato besos hermosa\Resultado: Neutral
+  - quieres: 0.0516
+  - ser: 0.0472
+  - buen: 0.0319
+  - cora: 0.0285
+  - zones: 0.0256
+  - punto: 0.0248
+  - novio: 0.0211
+  - esposo: 0.0168
+  - Oye: 0.0111
+  - besos: 0.0106
+  - tienes: 0.0092
+  - riendo: 0.0078
+  - rato: 0.0063
+  - pero: 0.0059
+  - icante: 0.0058
+FIN DE PRUEBA[2026-06-21 12:26:45]
+Texto extraido de Gemini:
+Suéltalo preciosa, el amor de tu vida no pasaría ni un solo día sin hablarte, sin saber de ti y como te sientes Cuanta verdad en un solo post... gracias por compartir, aunque no me haré llamar preciosa... pero si Valioso...!!!!! [emoji_cara_desanimada][emoji_corazón_rojo][emoji_fuego][emoji_fuego] Que personal [emoji_cara_llorando_fuerte] Lo quiero tanto [emoji_cara_llorando_fuerte][emoji_corazón_roto] lo solte , quiere regresar pero lo solte deverda[emoji_corazón_roto][emoji_corazón_roto]\Resultado: Neutral
+  - gracias: 0.0904
+  - por: 0.0294
+  - llamar: 0.0196
+  - hablar: 0.0184
+  - aunque: 0.0149
+  - haré: 0.0131
+  - compartir: 0.0111
+  - día: 0.0088
+  - cora: 0.0088
+  - pasaría: 0.0084
+  - vida: 0.0079
+  - solo: 0.0078
+  - preciosa: 0.0073
+  - talo: 0.0057
+  - quiero: 0.0041
+FIN DE PRUEBA[2026-06-21 12:29:34]
+Texto extraido de Gemini:
+[emoji_fuego] [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] [emoji_cara_llorando_de_risa] [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Mi ídolo[emoji_cara_llorando_de_risa] [emoji_cara_llorando_de_risa] JAJAJAJAJA JAJAJAJA [emoji_cara_llorando_de_risa] si me rei en mayúsculas [emoji_cara_de_loco][emoji_cara_llorando_de_risa][emoji_cara_revolviéndose_de_la_risa] EL Lic es muy rico [emoji_cara_con_calor]\Resultado: Acoso
+  - JAJA: 0.024
+  - risa: 0.0094
+  - lor: 0.0047
+  - ando: 0.0047
+  - mayúsculas: 0.0042
+  - cara: 0.0041
+  - vol: 0.0027
+  - viéndose: 0.0027
+  - ídolo: 0.0018
+  - muy: 0.0017
+  - rico: 0.0017
+  - Lic: 0.0015
+  - con: 0.0011
+  - cal: 0.0011
+  - uego: 0.0007
+FIN DE PRUEBA[2026-06-21 12:35:49]
+Texto extraido de Gemini:
+Sal de tu escondite , te voy a encontrar wey [emoji_pistola_de_agua] Noo, encuntrame, te estoy vigilando [emoji_ojos] Pareces gay haciendo eso, sal y vamos a jugar bien cabron Te voy a matar y a ganar [emoji_cara_revolviéndose_de_la_risa][emoji_calavera] Si salgo estás muerto wey [emoji_gota_de_sangre][emoji_gota_de_sangre]\Resultado: Acoso
+  - gre: 0.0955
+  - gay: 0.0748
+  - haciendo: 0.0528
+  - san: 0.052
+  - escon: 0.0512
+  - jugar: 0.0287
+  - Par: 0.0247
+  - eso: 0.0227
+  - matar: 0.0195
+  - muerto: 0.0195
+  - estás: 0.0193
+  - bien: 0.0184
+  - voy: 0.0146
+  - avera: 0.0133
+  - eces: 0.0106
+FIN DE PRUEBA[2026-06-21 12:38:39]
+Texto extraido de Gemini:
+Ahora sin ir rebotando a Llorar Tania [emoji_cara_agotada] Yo quiero quemarla, porque es una zorrita putita que le canté el tiro y se echó para atrás, que se siente un culo nada más oler culo y qué piensa que sus amigas le van a hacer un paro, pinche zorrita putita me cae de los huevos. Y aparte haciendo un culo y no es nadie ni está solita y ni te hace nada más ladra la perrita [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Tania de 3.D [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa]\Resultado: Acoso
+  - nadie: 0.038
+  - culo: 0.0364
+  - está: 0.0337
+  - hace: 0.0203
+  - sol: 0.0178
+  - ita: 0.0178
+  - nada: 0.0177
+  - más: 0.0177
+  - aparte: 0.0156
+  - haciendo: 0.014
+  - quiero: 0.0111
+  - tiro: 0.0093
+  - lor: 0.0072
+  - ando: 0.0072
+  - cara: 0.007
+FIN DE PRUEBA[2026-06-21 12:41:13]
+Texto extraido de Gemini:
+Holaaa,vengo a quemar a la perrita de Camila de 3D,es súper cachorra y está súper culera q se pague la rinoplastia en vez de su iPhone 17,la única bonita de su grupito es general y ella es la más culera es una perrita q nadie la ama,mendiga cachorra q bno q ya se va [emoji_cara_sonriendo_con_corazones]\Resultado: Acoso
+  - mend: 0.0956
+  - Hola: 0.0871
+  - cach: 0.0819
+  - nadie: 0.0667
+  - ella: 0.0565
+  - ama: 0.0529
+  - cora: 0.0485
+  - era: 0.0435
+  - cul: 0.0422
+  - zones: 0.0397
+  - orra: 0.0392
+  - ino: 0.0383
+  - iga: 0.0375
+  - pague: 0.0359
+  - quemar: 0.035
+FIN DE PRUEBA[2026-06-21 12:43:58]
+Texto extraido de Gemini:
+[emoji_marca_de_cruz][emoji_persona_adulta_pelo_pelirrojo][emoji_botón_de_marca_de_verificación] 1 [emoji_bandera_india] 1 🇽 You [emoji_mujer_caminando] [emoji_pelota_de_voleibol] [emoji_manos_levantadas_celebrando][emoji_pelota_de_voleibol][emoji_cien_puntos][emoji_cien_puntos][emoji_cara_feliz_con_ojos_sonrientes] 1 [emoji_bandera_india] 1 🇽 [emoji_persona_adulta_pelo_pelirrojo][emoji_interrogación_roja][emoji_profesional_de_la_tecnología_mujer][emoji_interrogación_roja] [emoji_manos_levantadas_celebrando][emoji_pelota_de_voleibol][emoji_cien_puntos][emoji_cien_puntos][emoji_cara_feliz_con_ojos_sonrientes] [emoji_mano_saludando][emoji_casa] [emoji_cara_saboreando_comida][emoji_plátano][emoji_cara_babeando] [emoji_nota_musical] @inaradlog [emoji_bádminton][emoji_interrogación_roja] [emoji_pelota_de_voleibol][emoji_pulgar_hacia_arriba][emoji_hombre_corriendo][emoji_hombre_corriendo][emoji_hombre_corriendo][emoji_cara_feliz_con_ojos_sonrientes] Video call\Resultado: Neutral
+  - feliz: 0.01
+  - abor: 0.0046
+  - cara: 0.0037
+  - eando: 0.0037
+  - cele: 0.0022
+  - ando: 0.0021
+  - salud: 0.002
+  - van: 0.0017
+  - tadas: 0.0017
+  - puntos: 0.0015
+  - mano: 0.0015
+  - manos: 0.0012
+  - Video: 0.0011
+  - cal: 0.0011
+  - son: 0.001
+FIN DE PRUEBA[2026-06-21 12:46:02]
+Texto extraido de Gemini:
+hola quiero quemar a Carol de 2C o mas bien ximena jajaja, esta bien pínche fea parece pínche parte de enfrente de un bocho y es bien pínche fácil, amiga valórate un poco [emoji_cara_guiñando_el_ojo], le es infiel a mi amigo Cristian porque hasta hay rumores de que ella se fue con otro niño que no es Cristian a su cuarto Jaja, aparte de que se cree la muy bonita en sus fotos esta bien culera y ya nadie la pela porque esta bien rolada [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Y anónimo porfa jaja, ahorita te paso la foto\Resultado: Neutral
+  - paso: 0.0356
+  - ella: 0.0292
+  - jajaja: 0.0254
+  - rumores: 0.0144
+  - anónimo: 0.0143
+  - que: 0.0114
+  - infiel: 0.0111
+  - xim: 0.0109
+  - ena: 0.0109
+  - ita: 0.0098
+  - fácil: 0.0093
+  - por: 0.0089
+  - jaja: 0.0089
+  - fea: 0.0082
+  - parece: 0.0082
+FIN DE PRUEBA[2026-06-21 16:29:28]
+Texto extraido de Gemini:
+De los hombres ya no espero nada pero que horror de ver los comentarios de las mujeres juzgando a otros mujeres o justificando las faltas de respeto [emoji_cara_de_náuseas] ojalá nunca les pase ni a nadie de sus seres queridos. Esta normalizado cuando no debe nena. Valórate un poco si [emoji_cara_llorando_de_risa] Es que no van a hacer ejercicios. Van a buscar CON QUIÉN...[emoji_cara_revolviéndose_de_la_risa][emoji_cara_revolviéndose_de_la_risa][emoji_cara_sonriendo_con_ojos_de_corazón][emoji_cara_llorando_de_risa] Ahora nos vamos así nos sacan del gym [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Que buen punto.... Esos eran los playboys de niño [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Una mujer debe saber ubicarse también, no hay necesidad de ir asi\Resultado: Acoso
+  - rate: 0.0358
+  - mujeres: 0.0277
+  - las: 0.0215
+  - respeto: 0.0215
+  - justif: 0.0157
+  - icando: 0.0157
+  - faltas: 0.0157
+  - áus: 0.0153
+  - eas: 0.0153
+  - cuando: 0.0143
+  - normalizado: 0.014
+  - Esta: 0.0123
+  - otros: 0.011
+  - debe: 0.0106
+  - nena: 0.0106
+FIN DE PRUEBA[2026-06-21 16:36:07]
+Texto extraido de Gemini:
+Viene a quemar a la zorrita de Zoe porque parece prosti, su mami dice que no pero no sabe cómo es su hija, aparte es súper hipócrita y se quedó sin amigas y las amigas que tiene hablan mal de ellas, ya ni sus amigos hombres la soportan porque es súper insoportable y todos quieren que se vaya de la escuela, ya nadie la quiere, es una bolita de grasa primero que baje de peso y ya después esté criticando y su clo es por lo gordota que está, parece q va a reventar esa cosa alvvvv, preciosa date a respetar porque ya todos tenemos tu packkkk [emoji_cara_revolviéndose_de_la_risa][emoji_cara_revolviéndose_de_la_risa]\Resultado: Acoso
+  - hipó: 0.2959
+  - crita: 0.1705
+  - súper: 0.0353
+  - respetar: 0.0236
+  - hija: 0.0233
+  - insoportable: 0.0208
+  - preciosa: 0.0168
+  - date: 0.0168
+  - aparte: 0.0148
+  - dice: 0.0124
+  - que: 0.0124
+  - pero: 0.012
+  - baje: 0.0114
+  - peso: 0.0114
+  - risa: 0.0113
+FIN DE PRUEBA[2026-06-21 16:36:45]
+Texto extraido de Gemini:
+¿Donde andas? Amor ¿Ya vienes? [emoji_cara_desanimada] Qué si ptm [emoji_cara_cabreada] Amor ¿Qué significa ptm? [emoji_cara_con_monóculo] " Perame tantito mi amor " [emoji_cara_con_manos_abrazando] [emoji_cara_aguantándose_las_lágrimas] Está bien..\Resultado: Neutral
+  - grimas: 0.0861
+  - tan: 0.0392
+  - Está: 0.0357
+  - cara: 0.018
+  - con: 0.016
+  - ame: 0.0153
+  - Per: 0.0151
+  - bien: 0.0138
+  - tito: 0.0137
+  - amor: 0.0116
+  - las: 0.0073
+  - culo: 0.007
+  - zando: 0.0053
+  - Donde: 0.0049
+  - mon: 0.0041
+FIN DE PRUEBA[2026-06-21 18:08:59]
+Texto extraido de Gemini:
+Ola Quiero quemar A alguien Si a quien.? ALA MAESTRA GINA Okey si Por qué es bien culera y solo le gusta mamar el palo y nadie quiere ver su pelo de vagina y solo sabe mandar sitatorios Y nunca le dan La gallina JAJAJAJA\Resultado: Acoso
+  - quemar: 0.145
+  - alguien: 0.1178
+  - pelo: 0.0832
+  - mam: 0.064
+  - iero: 0.0634
+  - gallina: 0.0582
+  - JAJA: 0.0577
+  - vagina: 0.0525
+  - era: 0.0443
+  - gusta: 0.0391
+  - solo: 0.0364
+  - palo: 0.0356
+  - nadie: 0.0277
+  - Ola: 0.0224
+  - cul: 0.022
+FIN DE PRUEBA[2026-06-21 18:11:48]
+Texto extraido de Gemini:
+[emoji_pulgar_hacia_arriba][emoji_maletín][emoji_cien_puntos][emoji_puño_cerrado][emoji_cara_durmiendo][emoji_persona_en_la_cama] [emoji_ruedas_de_control][emoji_cara_de_alivio][emoji_mujer_con_la_mano_levantada][emoji_cara_de_cerdo][emoji_papá_noel] [emoji_cama][emoji_cuenco_con_cuchara][emoji_profesional_de_la_tecnología_mujer][emoji_gráfico_de_barras][emoji_notas_musicales] [emoji_puño_cerrado][emoji_bádminton][emoji_cara_pensativa][emoji_luna]? [emoji_puño_cerrado][emoji_bádminton][emoji_cara_pensativa][emoji_luna]? [emoji_cara_desanimada] [emoji_cama][emoji_cuenco_con_cuchara][emoji_profesional_de_la_tecnología_mujer][emoji_gráfico_de_barras][emoji_notas_musicales][emoji_ruedas_de_control][emoji_vaca][emoji_ruedas_de_control][emoji_abeja][emoji_sol] [emoji_ruedas_de_control][emoji_vaca][emoji_ruedas_de_control][emoji_abeja][emoji_sol][emoji_mujer_haciendo_el_gesto_de_no][emoji_marca_de_cruz][emoji_dorso_de_mano_con_índice_a_la_izquierda][emoji_mujer_con_la_mano_levantada][emoji_cerebro][emoji_mono_con_los_ojos_tapados]\Resultado: Neutral
+  - puntos: 0.0014
+  - cer: 0.0014
+  - rado: 0.0014
+  - sol: 0.0014
+  - los: 0.0012
+  - jos: 0.0012
+  - con: 0.0011
+  - marca: 0.0011
+  - mono: 0.0011
+  - van: 0.001
+  - tada: 0.001
+  - pados: 0.0009
+  - cara: 0.0008
+  - control: 0.0008
+  - esto: 0.0008
+FIN DE PRUEBA[2026-06-21 18:15:18]
+Texto extraido de Gemini:
+ODIO que me despierten [emoji_pulgar_hacia_arriba] [emoji_palomitas] [emoji_cara_derritiéndose] [emoji_corazón_rojo] ☐ [emoji_chispas] [emoji_cara_saboreando_comida]\Resultado: Neutral
+  - hacia: 0.0906
+  - pas: 0.0721
+  - que: 0.046
+  - tiéndose: 0.0403
+  - cora: 0.0343
+  - itas: 0.0313
+  - riba: 0.0196
+  - pal: 0.0176
+  - desp: 0.0172
+  - DIO: 0.0166
+  - chis: 0.0099
+  - abor: 0.0088
+  - ierten: 0.0084
+  - pul: 0.0083
+  - zón: 0.0081
+FIN DE PRUEBA[2026-06-21 18:20:06]
+Texto extraido de Gemini:
+Espero y le pongan una recia bien puesta que ya no le queden ganas de volver a amenazar a una mujer y delante de las niñas. Que coraje. [emoji_cara_cabreada][emoji_cara_con_símbolos_en_la_boca][emoji_cara_cabreada] Pobre niñas se mira que ambos las estan dañando Mal nacido Poco hombre\Resultado: Acoso
+  - amenazar: 0.1063
+  - mujer: 0.0914
+  - dañ: 0.0831
+  - niñas: 0.0733
+  - nacido: 0.0461
+  - pongan: 0.0451
+  - Mal: 0.0331
+  - ganas: 0.0247
+  - ando: 0.0227
+  - que: 0.016
+  - las: 0.0156
+  - volver: 0.014
+  - bol: 0.0138
+  - ada: 0.0134
+  - una: 0.0132
+FIN DE PRUEBA[2026-06-21 18:20:42]
+Texto extraido de Gemini:
+Cuando le estaban tocando las chichis que no sintio las manotas siento que este w le encanta el chorizo hasta se pone de cuatro LA HERMOSISIMA #MIA_MARIN SIEMPRE MONTERREY PTS....\Resultado: Neutral
+  - chorizo: 0.0376
+  - pone: 0.0154
+  - siento: 0.0078
+  - cuatro: 0.0063
+  - HER: 0.0057
+  - estaban: 0.0047
+  - mano: 0.0038
+  - ich: 0.0027
+  - este: 0.0027
+  - SIEMPRE: 0.0025
+  - tas: 0.0019
+  - Cuando: 0.0018
+  - hasta: 0.0018
+  - MAR: 0.0017
+  - MOS: 0.0016
+FIN DE PRUEBA[2026-06-21 18:22:35]
+Texto extraido de Gemini:
+Hola quiero quemar a esta putita se llama América de 1-f es bien puto está más rolada que nada y se cree la mera vrg pero está bien retrasada solo quiere encajar y a mi amigo le ponía el clo pinche odiosa todos sus novios la dejaron por fea Que estaba soñando? [emoji_cara_pensativa]\Resultado: Acoso
+  - puto: 0.177
+  - novios: 0.1362
+  - está: 0.0798
+  - pero: 0.077
+  - sus: 0.057
+  - bien: 0.0518
+  - ada: 0.0457
+  - estaba: 0.0455
+  - solo: 0.0445
+  - quiere: 0.0439
+  - mera: 0.0416
+  - fea: 0.0414
+  - soñando: 0.0367
+  - clo: 0.0366
+  - iosa: 0.0309
+FIN DE PRUEBA[2026-06-21 18:24:22]
+Texto extraido de Gemini:
+Viene a quemar a la zorrita de Zoe porque parece prosti, su mami dice que no pero no sabe cómo es su hija, aparte es súper hipócrita y se quedó sin amigas y las amigas que tiene hablan mal de ellas, ya ni sus amigos hombres la soportan porque es súper insoportable y todos quieren que se vaya de la escuela, ya nadie la quiere, es una bolita de grasa primero que baje de peso y ya después esté criticando y su clo es por lo gordota que está, parece q va a reventar esa cosa alvvvv, preciosa date a respetar porque ya todos tenemos tu packkkk [emoji_cara_revolviéndose_de_la_risa][emoji_cara_revolviéndose_de_la_risa]\Resultado: Acoso
+  - hipó: 0.2959
+  - crita: 0.1705
+  - súper: 0.0353
+  - respetar: 0.0236
+  - hija: 0.0233
+  - insoportable: 0.0208
+  - preciosa: 0.0168
+  - date: 0.0168
+  - aparte: 0.0148
+  - dice: 0.0124
+  - que: 0.0124
+  - pero: 0.012
+  - baje: 0.0114
+  - peso: 0.0114
+  - risa: 0.0113
+FIN DE PRUEBA[2026-06-21 18:26:15]
+Texto extraido de Gemini:
+JAJJAJAJAJA Achu achu Achupame la pija UAJJAJJAJQQJ NONOMO BAFTA NO PUEDOO YAAA JJJAJAJAJAJJAJAJAJAJAJJAJAJAJAJAJAJJAKAJAAJAJAJAJJAJJASJJAJAKAJJAJAJJJAJAJAJAJJAJAJAJAJJAJAJAJAJAJJAJAAJAJAJAJAJAJJAJJASJJAJAKAJJAJAJSJJAJAJAJJAJAJAJAJJAJAJAJAJAJJAAJJAJAJAJAJAJAJAJAJJAJAAJAJIAJAJIAIA.IA.IA.IA.IAKA.IA.IA.LIAS.IA.IAKA.IA.IA.IA.IA.IA.I MEMEO BAFTA\Resultado: Acoso
+  - ame: 0.1319
+  - chu: 0.0379
+  - JAJA: 0.0075
+  - JAS: 0.0045
+  - MEM: 0.0036
+  - PUEDO: 0.0013
+  - IAS: 0.001
+FIN DE PRUEBA[2026-06-21 18:33:18]
+Texto extraido de Gemini:
+[emoji_cara_sonriendo_con_ojos_de_corazón][emoji_fuego] [emoji_cara_llorando_de_risa][emoji_dedos_juntos_apuntando_hacia_arriba][emoji_fuego] [emoji_fuego][emoji_cara_llorando_de_risa] [emoji_cara_sonriendo_ligeramente][emoji_pintarse_las_uñas] [emoji_fuego] A veces 150kg otras veces 200kg[emoji_manos_levantadas_celebrando] [emoji_cara_llorando_de_risa][emoji_dedos_juntos_apuntando_hacia_arriba] GOOO GIRLLLLLL[emoji_señal_de_aprobación_con_la_mano][emoji_bíceps_flexionado] [emoji_corazón_en_llamas][emoji_bíceps_flexionado]\Resultado: Neutral
+  - cora: 0.0219
+  - zón: 0.0114
+  - ionado: 0.008
+  - flex: 0.0068
+  - ñal: 0.0059
+  - ando: 0.0057
+  - cele: 0.0057
+  - uego: 0.0041
+  - mano: 0.004
+  - cep: 0.004
+  - van: 0.0037
+  - tadas: 0.0037
+  - riba: 0.0029
+  - cara: 0.0028
+  - tando: 0.0027
+FIN DE PRUEBA[2026-06-22 11:00:46]
+Texto extraido de Gemini:
+Hola guapo [emoji_cara_sonriendo_con_corazones][emoji_cara_lanzando_un_beso] Quien eres? [emoji_cara_pensativa] soy tu fan [emoji_cara_babeando][emoji_cara_lanzando_un_beso] puedo [emoji_ojos][emoji_berenjena] ? No, que asco. No se quien eres [emoji_prohibido][emoji_cara_de_náuseas] Ademas, tengo novia [emoji_cara_desanimada] pq me tratas así preciosa?? [emoji_cara_suplicante][emoji_cara_desanimada] yo solo kiero aserte feliz [emoji_cara_suplicante][emoji_cara_lanzando_un_beso][emoji_cara_sonriendo_con_corazones] Te voy a bloquear, adiós [emoji_cara_con_ojos_en_blanco] nonono porfa no [emoji_manos_en_oración] [emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte]\Resultado: Acoso
+  - eres: 0.038
+  - quien: 0.038
+  - bloquear: 0.0353
+  - voy: 0.0307
+  - que: 0.0305
+  - asco: 0.0305
+  - pro: 0.021
+  - hib: 0.021
+  - ido: 0.021
+  - áus: 0.0178
+  - eas: 0.0178
+  - emas: 0.0163
+  - cora: 0.0162
+  - Hola: 0.0117
+  - zones: 0.0098
+FIN DE PRUEBA[2026-06-22 11:01:38]
+Texto extraido de Gemini:
+Si amor, ahorita le digo al de uber que active Modo vuelo Si amor, ahorita le digo al de uber que active Por favor Te veo en la entrada de atrás Nmms amor Estoy apartando lugares JAJAJAJAJ KAJJAJA No era pa ti wow que\Resultado: Neutral
+  - Estoy: 0.1049
+  - veo: 0.066
+  - favor: 0.0652
+  - amor: 0.0524
+  - digo: 0.0488
+  - Por: 0.0402
+  - atrás: 0.0326
+  - lugares: 0.03
+  - que: 0.0255
+  - entrada: 0.0251
+  - JAJA: 0.0237
+  - activ: 0.0112
+  - era: 0.0095
+  - tando: 0.006
+  - ita: 0.0043
+FIN DE PRUEBA[2026-06-22 12:07:16]
+Texto extraido de Gemini:
+Si amor, ahorita le digo al de uber que active Modo vuelo Por favor Te veo en la entrada de atrás Nmms amor Estoy apartando lugares JAJAJAJAJAJ KAJAJAJA No era pa ti wow que\Resultado: Neutral
+  - vuelo: 0.0967
+  - JAJA: 0.0855
+  - veo: 0.0803
+  - Modo: 0.0661
+  - Estoy: 0.0646
+  - lugares: 0.0555
+  - digo: 0.0513
+  - favor: 0.051
+  - amor: 0.0456
+  - activ: 0.0382
+  - ahor: 0.0322
+  - Por: 0.0296
+  - apar: 0.0188
+  - era: 0.006
+  - tando: 0.0057
+FIN DE PRUEBA[2026-06-22 12:08:31]
+Texto extraido de Gemini:
+Hola no quieres ver mi [emoji_berenjena][emoji_cara_sonriendo_con_cuernos] Hola si quiero ver tu [emoji_pingüino] Abierto Te toca [emoji_berenjena] Hola ? Wow q riko[emoji_cara_saboreando_comida] Foto Wow que grande [emoji_berenjena][emoji_señal_de_aprobación_con_la_mano] Wow amor Vas a salir JAJAJAJAJJAJA En mi presentación Wow\Resultado: Neutral
+  - Abierto: 0.071
+  - toca: 0.0684
+  - quieres: 0.0459
+  - quiero: 0.0386
+  - Hola: 0.0344
+  - con: 0.0185
+  - nos: 0.0167
+  - riendo: 0.0158
+  - cuer: 0.0118
+  - enj: 0.0105
+  - son: 0.0098
+  - ver: 0.009
+  - ena: 0.0086
+  - ber: 0.0081
+  - ingü: 0.0081
+FIN DE PRUEBA[2026-06-22 12:25:00]
+Texto extraido de Gemini:
+Si amor, ahorita le digo al de uber que active Modo vuelo Si amor, ahorita le digo al de uber que active Por favor Te veo en la entrada de atrás Nmms amor Estoy apartando lugares JAJAJAJAJAJ KAJAJAJA No era pa ti wow que\Resultado: Neutral
+  - Estoy: 0.1332
+  - veo: 0.066
+  - favor: 0.0652
+  - amor: 0.0632
+  - lugares: 0.0611
+  - digo: 0.0508
+  - Por: 0.0402
+  - atrás: 0.0326
+  - entrada: 0.0251
+  - JAJA: 0.0207
+  - que: 0.0169
+  - activ: 0.0111
+  - era: 0.0104
+  - apar: 0.0083
+  - tando: 0.0079
+FIN DE PRUEBA[2026-06-22 12:26:50]
+Texto extraido de Gemini:
+Si amor, ahorita le digo al de uber que active Modo vuelo Por favor Te veo en la entrada de atrás Nmms amor Estoy apartando lugares JAJAJAJAJAJ KAJAJAJA No era pa ti wow que\Resultado: Neutral
+  - vuelo: 0.0967
+  - JAJA: 0.0855
+  - veo: 0.0803
+  - Modo: 0.0661
+  - Estoy: 0.0646
+  - lugares: 0.0555
+  - digo: 0.0513
+  - favor: 0.051
+  - amor: 0.0456
+  - activ: 0.0382
+  - ahor: 0.0322
+  - Por: 0.0296
+  - apar: 0.0188
+  - era: 0.006
+  - tando: 0.0057
+FIN DE PRUEBA[2026-06-23 17:04:31]
+Texto extraido de Gemini:
+\Resultado: Neutral
+FIN DE PRUEBA[2026-06-23 20:11:14]
+Texto extraido de Gemini:
+Hola amiga, quieres coger [emoji_cara_sonriendo_con_sudor_frío] no cabron que puto asco Orale, no te vas a arrepentir [emoji_berenjena][emoji_gotas_de_sudor][emoji_gotas_de_sudor] Te voy a bloquear, adios. pendejo\Resultado: Acoso
+  - asco: 0.1473
+  - Hola: 0.1427
+  - puto: 0.1016
+  - frío: 0.089
+  - bloquear: 0.0669
+  - voy: 0.0551
+  - tas: 0.0463
+  - que: 0.0438
+  - quieres: 0.0279
+  - amiga: 0.0258
+  - ron: 0.0241
+  - coger: 0.0226
+  - ber: 0.0161
+  - cab: 0.0157
+  - enj: 0.0132
+FIN DE PRUEBA[2026-06-23 21:57:09]
+Texto extraido de Gemini:
+Sal de tu escondite , te voy a encontrar wey [emoji_pistola_de_agua] Noo, encuntrame, te estoy vigilando [emoji_ojos] Pareces gay haciendo eso, sal y vamos a jugar bien cabron Te voy a matar y a ganar [emoji_cara_de_loco][emoji_calavera_y_huesos_cruzados] Si salgo estás muerto wey [emoji_gota_de_sangre][emoji_gota_de_sangre]
+Resultado: Acoso
+  - escon: 0.0707
+  - avera: 0.0681
+  - jugar: 0.0425
+  - bien: 0.0368
+  - gay: 0.036
+  - haciendo: 0.036
+  - cal: 0.0351
+  - ganar: 0.034
+  - gre: 0.0292
+  - vamos: 0.0262
+  - san: 0.0256
+  - eso: 0.0247
+  - Par: 0.0135
+  - eces: 0.0135
+  - ame: 0.0118
+FIN DE PRUEBA
+[2026-06-23 22:05:13]
+Texto extraido de Gemini:
+si Okas gracias amor, igual es si terminamos a esa hora sino ni modo Si lo hiciste con base en el mio? Es que le faltan cosas Vaya, no esta conectado A ver déjame checar Según yo si JAJAJ
+Resultado: Neutral
+  - terminamos: 0.0572
+  - hora: 0.0303
+  - sino: 0.0255
+  - gracias: 0.0209
+  - hiciste: 0.0181
+  - mio: 0.018
+  - base: 0.0175
+  - amor: 0.0077
+  - esa: 0.0054
+  - igual: 0.0051
+  - modo: 0.0027
+  - con: 0.0009
+  - kas: 0.0003
+  - conectado: 0.0002
+  - que: 0.0001
+FIN DE PRUEBA
+[2026-06-23 22:15:50]
+Texto extraido de Gemini:
+Si hubiera metido 2.5 de España :( Ya verde Esta madre Qpd :( Te dije Ni lo metí Fak Al rato a Bélgica 2.5 totales bro Na Difícil Nmms Es contra iran Irán queda fuera ya Es contra iran La vez pasada contra egipto
+Resultado: Neutral
+  - Bélgica: 0.0212
+  - rato: 0.0132
+  - madre: 0.0029
+  - dije: 0.0021
+  - verde: 0.0013
+  - España: 0.0012
+  - Dif: 0.0011
+  - ícil: 0.0006
+  - hubiera: 0.0005
+  - Irán: 0.0005
+  - contra: 0.0004
+  - totales: 0.0003
+  - bro: 0.0003
+  - metido: 0.0001
+  - iran: 0.0001
+FIN DE PRUEBA
+[2026-06-23 22:38:14]
+Texto extraido de Gemini:
+Mami ya cumplí 15, me puedo poner faldita? [emoji_mono_con_la_boca_tapada] No! Maquillarme? [emoji_cara_guiñando_el_ojo] Noo! Tanguitas mami? [emoji_cara_sonriendo_con_cuernos] Noooo! Blusitas mami? [emoji_cara_desanimada] Te dije que NO DANIEL!
+Resultado: Acoso
+  - nos: 0.2707
+  - cuer: 0.2013
+  - con: 0.0528
+  - mam: 0.0376
+  - guitas: 0.025
+  - Tan: 0.0119
+  - ooo: 0.0097
+  - son: 0.0043
+  - riendo: 0.0043
+  - cara: 0.0042
+  - quil: 0.0007
+  - lar: 0.0007
+  - itas: 0.0006
+  - des: 0.0004
+  - anim: 0.0004
+FIN DE PRUEBA
+[2026-06-23 23:18:24]
+Texto extraido de Gemini:
+¡Oye! ¿no quieres ser mi novio? pero... si tu tienes esposo!! [emoji_cara_decepcionada] Si pero novio no. [emoji_cara_desanimada] ah buen punto!! entonces asi si!!! [emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones] Te amo!! [emoji_rosa][emoji_corazón_negro] [emoji_cara_sonriendo_con_corazones] yo mas Te dejo, ya viene mi esposo. [emoji_pulgar_hacia_arriba] ok me escribes al rato besos hermosa
+Resultado: Neutral
+  - cora: 0.0012
+  - punto: 0.0008
+  - buen: 0.0006
+  - quieres: 0.0004
+  - ser: 0.0004
+  - dec: 0.0004
+  - anim: 0.0004
+  - esposo: 0.0003
+  - novio: 0.0002
+  - pero: 0.0002
+  - entonces: 0.0002
+  - zones: 0.0002
+  - tienes: 0.0001
+  - cara: 0.0001
+  - des: 0.0001
+FIN DE PRUEBA
+[2026-06-23 23:22:03]
+Texto extraido de Gemini:
+Mi corazon [emoji_cara_sonriendo_con_ojos_de_corazón][emoji_cara_sonriendo_con_ojos_de_corazón][emoji_corazón_rojo] Mi niño Te amo [emoji_cara_sonriendo_con_ojos_de_corazón][emoji_corazón_brillante] Mi Reina Te adoro [emoji_corazón_rojo][emoji_cara_sonriendo_con_ojos_de_corazón][emoji_corazón_brillante] Mi Rey Te reamodoro muchisimo [emoji_cara_sonriendo_con_ojos_de_corazón][emoji_corazón_brillante][emoji_corazón_rojo] Mi Mida mi niña... mi enana ... Mi Amor.. Mi corazon [emoji_corazón_rojo][emoji_corazón_rojo][emoji_cara_sonriendo_con_ojos_de_corazón] .... TE ADORO.. [emoji_corazón_rojo][emoji_cara_sonriendo_con_ojos_de_corazón] Mi vida.... Mi niño.... Mi altote... Mi rey [emoji_pulgar_hacia_arriba] .... Mii cielo.... Mi corazón... Mi universo [emoji_globo_terráqueo_mostrando_europa_y_áfrica] .... Mi todo [emoji_cara_sonriendo_con_ojos_de_corazón][emoji_corazón_brillante][emoji_corazón_rojo] TE ADORO MUCHO CON DEMASIADO [emoji_cara_sonriendo_con_ojos_de_corazón][emoji_cara_saboreando_comida][emoji_corazón_brillante][emoji_cara_suplicante][emoji_corazones_giratorios][emoji_señal_de_aprobación_con_la_mano]
+Resultado: Neutral
+  - corazon: 0.0
+  - cara: 0.0
+  - son: 0.0
+  - riendo: 0.0
+  - con: 0.0
+  - jos: 0.0
+  - cora: 0.0
+  - zón: 0.0
+  - rojo: 0.0
+  - niño: 0.0
+  - amo: 0.0
+  - illante: 0.0
+  - Reina: 0.0
+  - oro: 0.0
+  - Rey: 0.0
+FIN DE PRUEBA
+[2026-06-23 23:24:10]
+Texto extraido de Gemini:
+¿Donde andas? Amor ¿Ya vienes? [emoji_cara_pensativa] Qué si ptm [emoji_cara_enfadada] Amor ¿Qué significa ptm? [emoji_cara_con_monóculo] " Perame tantito mi amor " [emoji_cara_feliz_con_ojos_sonrientes] [emoji_cara_desanimada] Está bien..
+Resultado: Neutral
+  - bien: 0.1206
+  - feliz: 0.0778
+  - adada: 0.0635
+  - anim: 0.058
+  - das: 0.0542
+  - vienes: 0.0382
+  - ada: 0.0359
+  - amor: 0.0253
+  - tiva: 0.0219
+  - Donde: 0.0194
+  - pensa: 0.0177
+  - son: 0.016
+  - Está: 0.0122
+  - con: 0.0093
+  - mon: 0.0089
+FIN DE PRUEBA
+[2026-06-23 23:25:16]
+Texto extraido de Gemini:
+Sal de tu escondite , te voy a encontrar wey [emoji_pistola_de_agua] Noo, encúntrame, te estoy vigilando [emoji_ojos] Pareces gay haciendo eso, sal y vamos a jugar bien cabron Te voy a matar y a ganar [emoji_cara_revolviéndose_de_la_risa][emoji_calavera] Si salgo estás muerto wey[emoji_gota_de_sangre][emoji_gota_de_sangre]
+Resultado: Acoso
+  - avera: 0.0448
+  - gay: 0.0327
+  - cal: 0.0327
+  - gre: 0.0292
+  - san: 0.0275
+  - escon: 0.0251
+  - estás: 0.0204
+  - ame: 0.0167
+  - haciendo: 0.0161
+  - muerto: 0.0137
+  - Par: 0.0131
+  - estoy: 0.0103
+  - jos: 0.0102
+  - salgo: 0.0096
+  - eces: 0.0094
+FIN DE PRUEBA
+[2026-06-23 23:28:11]
+Texto extraido de Gemini:
+Hola quiero quemar a esta putita se llama América de 1-f es bien puto está más rolada que nada y se cree la mera vrg pero está bien retrasada solo quiere encanjar y a mi amigo le ponía el clo pinche odiosa todos sus novios la dejaron por fea Que estaba soñando? [emoji_cara_pensativa]
+Resultado: Acoso
+  - puto: 0.1329
+  - tiva: 0.0816
+  - novios: 0.081
+  - iosa: 0.078
+  - pensa: 0.0715
+  - solo: 0.069
+  - bien: 0.0631
+  - quiere: 0.0618
+  - llama: 0.0573
+  - ada: 0.0535
+  - sus: 0.0465
+  - pero: 0.0457
+  - cree: 0.0428
+  - retras: 0.0382
+  - mera: 0.0376
+FIN DE PRUEBA
+[2026-06-23 23:29:59]
+Texto extraido de Gemini:
+Viene a quemar a la zorrita de Zoe porque parece prosti, su mami dice que no pero no sabe cómo es su hija, aparte es súper hipócrita y se quedó sin amigas y las amigas que tiene hablan mal de ellas,ya ni sus amigos hombres la soportan porque es súper insoportable y todos quieren que se vaya de la escuela,ya nadie la quiere,es una bolita de grasa primero que baje de peso y ya después esté criticando y su clo es por lo gordota que está,parece q va a reventar esa cosa alvvvv,preciosa date a respetar porque ya todos tenemos tu packkkk [emoji_cara_revolviéndose_de_la_risa][emoji_cara_revolviéndose_de_la_risa]
+Resultado: Acoso
+  - hipó: 0.2841
+  - crita: 0.1757
+  - peso: 0.0348
+  - quemar: 0.0182
+  - iene: 0.0173
+  - quiere: 0.0157
+  - baje: 0.0157
+  - sus: 0.0142
+  - amigos: 0.0142
+  - sabe: 0.0129
+  - súper: 0.0126
+  - insoportable: 0.0126
+  - que: 0.0102
+  - aparte: 0.0102
+  - todos: 0.0102
+FIN DE PRUEBA
+[2026-06-23 23:31:25]
+Texto extraido de Gemini:
+Ahora sin ir rebotando a Llorar Tania [emoji_cara_triste_pero_aliviada] Yo quiero quemarla, porque es una zorrita putita que le canté el tiro y se echó para atrás, que se siente un culo nada más oler culo y qué piensa que sus amigas le van a hacer un paro, pinche zorrita putita me cae de los huevos. Y aparte haciendo un culo y no es nadie ni está solita y ni te hace nada más ladra la perrita [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Tania de 3.D [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa]
+Resultado: Acoso
+  - hace: 0.0779
+  - nadie: 0.0659
+  - está: 0.0457
+  - culo: 0.0394
+  - nada: 0.0278
+  - más: 0.0278
+  - sol: 0.0099
+  - ita: 0.0099
+  - adra: 0.008
+  - rita: 0.0072
+  - per: 0.0072
+  - Tania: 0.0069
+  - aparte: 0.0057
+  - risa: 0.0057
+  - lor: 0.0049
+FIN DE PRUEBA
+[2026-06-23 23:32:29]
+Texto extraido de Gemini:
+Holaaa,vengo a quemar a la perrita de Camila de 3D,es súper cachorra y está súper culera q se pague la rinoplastia en vez de su iPhone 17,la única bonita de su grupito es general y ella es la más culera es una perrita q nadie la ama,mendiga cachorra q bno q ya se va [emoji_cara_sonriendo_con_corazones]
+Resultado: Neutral
+  - cora: 0.1794
+  - zones: 0.1021
+  - rita: 0.0657
+  - cach: 0.0611
+  - pito: 0.061
+  - per: 0.0512
+  - mend: 0.0436
+  - Hola: 0.0394
+  - orra: 0.0382
+  - pague: 0.0281
+  - única: 0.0253
+  - nadie: 0.0247
+  - cul: 0.0234
+  - ama: 0.0223
+  - súper: 0.0216
+FIN DE PRUEBA
+[2026-06-23 23:37:48]
+Texto extraido de Gemini:
+hola quiero quemar a Carol de 2C o mas bien ximena jajaja, esta bien pínche fea parece pínche parte de enfrente de un bocho y es bien pínche fácil, amiga valórate un poco [emoji_cara_guiñando_el_ojo], le es infiel a mi amigo Cristian porque hasta hay rumores de que ella se fue con otro niño que no es Cristian a su cuarto Jaja, aparte de que se cree la muy bonita en sus fotos esta bien culera y ya nadie la pela porque esta bien rolada [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Y anónimo porfa jaja, ahorita te paso la foto
+Resultado: Neutral
+  - jajaja: 0.074
+  - fea: 0.0522
+  - parece: 0.0175
+  - ella: 0.0149
+  - infiel: 0.0091
+  - bien: 0.007
+  - esta: 0.0065
+  - fue: 0.0063
+  - parte: 0.0062
+  - niño: 0.0061
+  - otro: 0.0053
+  - enfrente: 0.0052
+  - paso: 0.0049
+  - con: 0.0047
+  - ando: 0.0046
+FIN DE PRUEBA
+[2026-06-23 23:40:01]
+Texto extraido de Gemini:
+Ola Quiero quemar A alguien Si a quien.? ALA MAESTRA GINA Okey si Por qué es bien culera y solo le gusta mamar el palo y nadie quiere ver su pelo de vagina y solo sabe mandar sitatorios Y nunca le dan La gallina JAJAJAJA
+Resultado: Acoso
+  - pelo: 0.0976
+  - solo: 0.0946
+  - mam: 0.0822
+  - nadie: 0.0815
+  - vagina: 0.0655
+  - JAJA: 0.0446
+  - palo: 0.0399
+  - dan: 0.0391
+  - nunca: 0.0367
+  - sabe: 0.0346
+  - quiere: 0.0342
+  - sita: 0.0243
+  - torios: 0.0229
+  - cul: 0.0225
+  - era: 0.0183
+FIN DE PRUEBA
+[2026-06-23 23:41:42]
+Texto extraido de Gemini:
+JAJJAJAJAJA Achu achu Achupame la pija UAJJAJJAJQGJ NONOMO BAFTA NO PUEDOO YAAA JJJAJAJAJAJJAJAJAJAJJAJAJAJAJJAJAJ AJAKAJJJAJAJAJJAJAJAJJAJAAJJAKAJJAJAAJAJJAAJAJ AJJASJJAJAKAJJJAJAJJASJJAJAKAJJAJJAJAJAJJAJ JJJAJAJAJJAJJAJJAJJAJAJAJJAJJAJAAJAAJJAKAJJAJAAJAJJAAJAJ AJJASJJAJAKAJJJAJAJJASJJAJAKAJJAJJAJAJAJJAJ SJJAJAKAJJJAJAJJAKAJJAJAKAJJAAJJAKAJJAAJAJJAAJAJ IJA.IA.IA.IAKA.IA.IA.IIAS.IAKA.IA.IA.IA.I.IIA.IA.I Rosa ella amarillo yo MEMEO BAFTA
+Resultado: Acoso
+  - ame: 0.0271
+  - JAJA: 0.0142
+  - chu: 0.01
+  - JAS: 0.0061
+  - PUEDO: 0.006
+  - MEM: 0.0017
+  - ella: 0.001
+  - amarillo: 0.001
+  - Rosa: 0.0008
+FIN DE PRUEBA
+[2026-06-23 23:58:57]
+Texto extraido de Gemini:
+Oye Oye Oye Oyeeeeeeeeeeeee Mande. No me ah bajado. Y me tocaba desde el 12. No mms. [emoji_cara_triste_pero_aliviada] Vas a ser mamá soltera. [emoji_cara_triste_pero_aliviada][emoji_corazón_rojo]
+Resultado: Neutral
+  - cora: 0.1091
+  - Vas: 0.058
+  - zón: 0.0239
+  - iste: 0.0225
+  - ser: 0.022
+  - cara: 0.0163
+  - soltera: 0.0116
+  - mamá: 0.0109
+  - rojo: 0.0093
+  - iada: 0.0084
+  - pero: 0.0051
+  - tocaba: 0.0014
+  - desde: 0.0005
+  - bajado: 0.0002
+  - eeeeeeee: 0.0
+FIN DE PRUEBA
+[2026-06-23 23:59:54]
+Texto extraido de Gemini:
+Como crees, no andes levantando falsos La siguiente clase es examen A MALAS VIBRAS https://tarjettasgiffs.blogspot.mx/ DESDE HOY VOY A BARRER MUY BIEN Y SACAR DE MI VIDA TODO LO MALO Y NEGATIVO Tienen que exponer antes de presentar el examen y ya se ahí les dan su calificación definitiva. Vianey Tienen que exponer antes de presentar el examen y ya se ahí les dan su calificación definitiva. Que vieron en física Vianey ¿Es neta tu pregunta? [emoji_cara_sonrojada] Gracias amiga No llego. [emoji_cara_agotada] Ya se pasooo
+Resultado: Neutral
+  - calificación: 0.0361
+  - definitiva: 0.0341
+  - antes: 0.025
+  - TIVO: 0.0229
+  - Gracias: 0.0225
+  - dan: 0.0193
+  - les: 0.0181
+  - pregunta: 0.0163
+  - cara: 0.0139
+  - llego: 0.0132
+  - Que: 0.0068
+  - ahí: 0.0062
+  - vieron: 0.0057
+  - presentar: 0.0054
+  - amiga: 0.0052
+FIN DE PRUEBA
+[2026-06-24 00:05:19]
+Texto extraido de Gemini:
+Estas? [emoji_cara_pensativa] Si, qué pasa? A ver, no ni por dónde empezar [emoji_cara_con_ojos_en_blanco] mmmm ahora que traes [emoji_cara_con_ojos_en_blanco] La foto que puse de perfil juntos me tarde como 1 hora en pensar todo lo que le iba a poner un texto súper largo y tú solo comentas "gracias mi amor te amo" [emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones] ósea es enserio? [emoji_cara_con_ceja_alzada] mmm pues me gustó lo que pusiste pero no sé qué más poner [emoji_cara_sonriendo_con_sudor_frío] Entonces borra eso y pon esto "muchas gracias mi amor [emoji_corazón_rojo] eres lo mejor que me ha pasado siempre juntos [emoji_cara_con_manos_abrazando] eres la mejor del mundo [emoji_globo_terráqueo_mostrando_américa] [emoji_corazón_rojo] " me avisas cuando lo pongas [emoji_cara_con_ceja_alzada] Ok ya voy
+Resultado: Neutral
+  - Estas: 0.0
+  - cara: 0.0
+  - pensa: 0.0
+  - tiva: 0.0
+  - qué: 0.0
+  - pasa: 0.0
+  - ver: 0.0
+  - por: 0.0
+  - dónde: 0.0
+  - empezar: 0.0
+  - con: 0.0
+  - jos: 0.0
+  - blanco: 0.0
+  - mmm: 0.0
+  - ahora: 0.0
+FIN DE PRUEBA
+[2026-06-24 00:10:50]
+Texto extraido de Gemini:
+Hola amiga, disculpe que te moleste Voy en tu salón y me surgió una duda en clase, ¿Crees que me puedes ayudar? Si, dime Tienes novio? [emoji_cara_suplicante]
+Resultado: Neutral
+  - ayudar: 0.1647
+  - surgió: 0.1228
+  - dime: 0.0887
+  - novio: 0.0866
+  - duda: 0.0565
+  - icante: 0.0419
+  - una: 0.0395
+  - mol: 0.038
+  - Crees: 0.0359
+  - ienes: 0.0358
+  - discul: 0.0344
+  - que: 0.0299
+  - este: 0.0276
+  - puedes: 0.023
+  - Hola: 0.0168
+FIN DE PRUEBA
+[2026-06-24 00:24:55]
+Texto extraido de Gemini:
+Espero y le pongan una recia bien puesta que ya no le queden ganas de volver a amenazar a una mujer y delante de las niñas. Que coraje.[emoji_cara_con_símbolos_en_la_boca][emoji_cara_con_símbolos_en_la_boca][emoji_cara_con_símbolos_en_la_boca] Pobre niñas se mira que ambos las estan dañando Mal nacido Poco hombre
+Resultado: Acoso
+  - niñas: 0.0737
+  - dañ: 0.0731
+  - obre: 0.071
+  - nacido: 0.0569
+  - Mal: 0.0531
+  - mira: 0.0271
+  - estan: 0.0199
+  - bol: 0.0173
+  - que: 0.0158
+  - ando: 0.0156
+  - las: 0.0128
+  - ambos: 0.0128
+  - con: 0.0112
+  - cara: 0.011
+  - boca: 0.0072
+FIN DE PRUEBA
+[2026-06-24 00:26:45]
+Texto extraido de Gemini:
+[emoji_cara_sonriendo_con_gafas_de_sol] chido por ella [emoji_cara_de_loco][emoji_cara_revolviéndose_de_la_risa] [emoji_cara_asombrada] Nimodo [emoji_manos_en_oración] Gracias dios [emoji_cara_llorando_de_risa] [emoji_chispas] descanso divino le espera xd [emoji_corazón_en_llamas] que lindo... Estás nadando, bueno te dejo que disfrutes del agua tranquilo [emoji_cabeza_explotando] cara de que finjo que me dió una crisis epileptia estando él ahogado y quedé inconsciente [emoji_calavera] ...lo tomo
+Resultado: Neutral
+  - Gracias: 0.0004
+  - oración: 0.0002
+  - vol: 0.0001
+  - viéndose: 0.0001
+  - ombr: 0.0001
+  - manos: 0.0001
+  - chis: 0.0001
+  - pas: 0.0001
+  - descanso: 0.0001
+  - cara: 0.0
+  - son: 0.0
+  - riendo: 0.0
+  - con: 0.0
+  - fas: 0.0
+  - sol: 0.0
+FIN DE PRUEBA
+[2026-06-24 00:39:04]
+Texto extraido de Gemini:
+[emoji_cara_sonriendo_con_ojos_de_corazón] Me la pasé muy bien Qué bonita pareja [emoji_manos_levantadas_celebrando] Wooow [emoji_cara_sonriendo_con_corazones] Que bello? Como se llama la canción??? [emoji_corazón_rojo][emoji_corazón_rojo][emoji_corazón_rojo] ¿Qué opinas sobre esto?
+Resultado: Neutral
+  - cora: 0.0001
+  - zón: 0.0001
+  - pasé: 0.0001
+  - bien: 0.0001
+  - bello: 0.0001
+  - cara: 0.0
+  - son: 0.0
+  - riendo: 0.0
+  - con: 0.0
+  - jos: 0.0
+  - muy: 0.0
+  - Qué: 0.0
+  - bonita: 0.0
+  - pareja: 0.0
+  - manos: 0.0
+FIN DE PRUEBA
+[2026-06-24 00:40:21]
+Texto extraido de Gemini:
+Cuando le estaban tocando las chichis que no sintio las manotas siento que este w le encanta el chorizo hasta se pone de cuatro LA HERMOSISIMA #MIA_MARIN SIEMPRE MONTERREY PTS....
+Resultado: Acoso
+  - chorizo: 0.1308
+  - siento: 0.1255
+  - pone: 0.1245
+  - tio: 0.0687
+  - este: 0.0478
+  - encanta: 0.0463
+  - SIEMPRE: 0.0452
+  - TER: 0.0445
+  - estaban: 0.0415
+  - que: 0.0367
+  - las: 0.0348
+  - HER: 0.0303
+  - tas: 0.0281
+  - mano: 0.0279
+  - Cuando: 0.0225
+FIN DE PRUEBA
+[2026-06-24 00:43:30]
+Texto extraido de Gemini:
+Los otros 3 no salen de hecho Igual no se si este bien en los otros 2 Igual yo me acoplo a la hora que tu puedas y me digas y si quieres así por mensaje o tu dime Pues no sé si me entiendas por mensaje Igual y te puedo mandar una reunión en teams más alrato y proyecto mi pantalla mientras hago los ejercicios que tienes duda
+Resultado: Neutral
+  - proyecto: 0.1347
+  - ejercicios: 0.0977
+  - hago: 0.0714
+  - duda: 0.0635
+  - tienes: 0.0612
+  - endas: 0.0492
+  - por: 0.0344
+  - enti: 0.0306
+  - hecho: 0.0232
+  - Igual: 0.0212
+  - reunión: 0.0206
+  - Los: 0.0198
+  - mandar: 0.0185
+  - Pues: 0.0169
+  - quieres: 0.0168
+FIN DE PRUEBA
+[2026-06-24 00:45:23]
+Texto extraido de Gemini:
+[emoji_marca_de_cruz][emoji_zombi_mujer][emoji_botón_de_marca_de_verificación] 1 [emoji_bandera_india] 1 [emoji_bandera_escocia] [emoji_mujer_caminando] [emoji_pelota_de_voleibol] [emoji_manos_levantadas_celebrando] [emoji_pelota_de_voleibol] [emoji_cien_puntos] [emoji_cien_puntos] [emoji_cara_sonriendo_ligeramente] 1 [emoji_bandera_india] 1 [emoji_bandera_escocia] [emoji_docente] ? [emoji_profesional_de_la_tecnología_mujer] ? [emoji_manos_levantadas_celebrando] [emoji_pelota_de_voleibol] [emoji_cien_puntos] [emoji_cien_puntos] [emoji_cara_con_manos_abrazando] [emoji_mano_saludando] [emoji_casa] [emoji_cara_saboreando_comida] [emoji_plátano] [emoji_cara_babeando] [emoji_notas_musicales] @inaradlog [emoji_bádminton] ? [emoji_pelota_de_voleibol] [emoji_pulgar_hacia_arriba] [emoji_hombre_corriendo] [emoji_hombre_corriendo] [emoji_hombre_corriendo] [emoji_cara_con_manos_abrazando]
+Resultado: Neutral
+  - marca: 0.0
+  - cruz: 0.0
+  - ombi: 0.0
+  - mujer: 0.0
+  - tón: 0.0
+  - ver: 0.0
+  - ificación: 0.0
+  - band: 0.0
+  - era: 0.0
+  - ind: 0.0
+  - esco: 0.0
+  - cia: 0.0
+  - cam: 0.0
+  - inando: 0.0
+  - lota: 0.0
+FIN DE PRUEBA
+[2026-06-24 00:46:55]
+Texto extraido de Gemini:
+Me hubieras dicho: "No tengo huevOs para quererte" y ya. Y qué pasa si me dijo: no es por ti, yo soy el que no está bien y no quiero arrastrarte más, díganme qué significa eso???? [emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_corazón_roto] Ha no para ellos más fácil, no decir nada crear un vínculo y seguir con su vida a la par Si me lo dijo...igual se sintió horrible [emoji_cara_triste_pero_aliviada]
+Resultado: Neutral
+  - vínculo: 0.0901
+  - cora: 0.0619
+  - zón: 0.0414
+  - seguir: 0.0369
+  - iada: 0.0278
+  - horrible: 0.0258
+  - hub: 0.0192
+  - que: 0.015
+  - gan: 0.0148
+  - ieras: 0.0147
+  - quer: 0.0143
+  - erte: 0.0139
+  - dijo: 0.013
+  - cara: 0.0129
+  - uev: 0.012
+FIN DE PRUEBA
+[2026-06-24 00:56:30]
+Texto extraido de Gemini:
+[emoji_cara_agotada][emoji_cara_agotada][emoji_cara_agotada][emoji_cara_agotada] aggressive toddler [emoji_cara_besando][emoji_cara_besando][emoji_cara_besando][emoji_cara_besando] [emoji_cara_de_náuseas][emoji_cara_de_náuseas][emoji_cara_vomitando][emoji_cara_llorando_fuerte][emoji_cara_estupefacta] ¿Preferirías "Me estoy riendo a más no poder"? [emoji_cara_llorando_de_risa] [emoji_cara_sonriendo_con_sudor_frío] Uso emojis bastante seguido, pero la carita de risa llorando [emoji_cara_llorando_de_risa] me revienta. La gente que los usa
+Resultado: Neutral
+  - frío: 0.0002
+  - poder: 0.0001
+  - Uso: 0.0001
+  - emo: 0.0001
+  - bastante: 0.0001
+  - seguido: 0.0001
+  - cara: 0.0
+  - ago: 0.0
+  - tada: 0.0
+  - gress: 0.0
+  - ive: 0.0
+  - tod: 0.0
+  - ler: 0.0
+  - bes: 0.0
+  - ando: 0.0
+FIN DE PRUEBA
+[2026-06-24 01:07:08]
+Texto extraido de Gemini:
+NO ME LO CREO Hasta eso ella no me cae mal, hay otras dos que me aparecen en el feed que si de plano el horror. Ella se me hace linda [emoji_cara_con_manos_abrazando] Muy hermosa saludos
+Resultado: Neutral
+  - Ella: 0.1218
+  - abra: 0.0818
+  - Muy: 0.0703
+  - hermosa: 0.0637
+  - linda: 0.0471
+  - feed: 0.0381
+  - con: 0.0313
+  - cara: 0.0294
+  - que: 0.0165
+  - horror: 0.0137
+  - plano: 0.0136
+  - dos: 0.0104
+  - aparecen: 0.0098
+  - zando: 0.0072
+  - otras: 0.007
+FIN DE PRUEBA
+[2026-06-24 01:13:23]
+Texto extraido de Gemini:
+Ayer me bañé jajajaj la gente se baña del diario antes de salir [emoji_cara_asombrada] en la noche no sudas? Y se ve que hace un buen de calor para ir con la chamarra, y sin bañar [emoji_mujer_con_la_mano_en_la_frente][emoji_mujer_con_la_mano_en_la_frente] Siempre con tus sudaderas nada que ver No sabía que el rubor se pone en la frente también
+Resultado: Acoso
+  - tus: 0.3236
+  - eras: 0.0677
+  - mujer: 0.0489
+  - mano: 0.048
+  - con: 0.0407
+  - nada: 0.032
+  - que: 0.0271
+  - frente: 0.0267
+  - das: 0.0127
+  - bañ: 0.0107
+  - ver: 0.0097
+  - pone: 0.0096
+  - buen: 0.0092
+  - también: 0.0092
+  - sabía: 0.0072
+FIN DE PRUEBA
+[2026-06-24 01:14:01]
+Texto extraido de Gemini:
+El labial muy fuerte hasta siento que no te deja cerrar los labios es notorio que te quedas mucho con la boca abierta. Cuida esos detalles eres muy joven y linda con un buen look te verías muy bien. Una chamarra de mezclilla, se vería mejor Creo que se te vio de más [emoji_cara_sonriendo_con_corazones] A ponerse a dieta
+Resultado: Neutral
+  - cora: 0.1422
+  - eres: 0.0765
+  - quedas: 0.062
+  - joven: 0.0565
+  - que: 0.0324
+  - bien: 0.031
+  - detalles: 0.024
+  - buen: 0.0213
+  - vería: 0.0199
+  - ida: 0.0195
+  - son: 0.0194
+  - esos: 0.0173
+  - zones: 0.0163
+  - ponerse: 0.0162
+  - cham: 0.014
+FIN DE PRUEBA
+[2026-06-24 01:15:16]
+Texto extraido de Gemini:
+[emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa]. Mija uno se baña todo los días con este calor fooo horrible si uno se baña y rápido suda[emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Que linda es tu hija Si alas 6 puedes bañarte huevona Si segun se cambia y siempre se ve fodonga porque siempre con su sudadera
+Resultado: Neutral
+  - hija: 0.0694
+  - calor: 0.0595
+  - puedes: 0.0513
+  - este: 0.0505
+  - rápido: 0.0328
+  - ona: 0.0301
+  - linda: 0.0289
+  - uno: 0.0278
+  - uev: 0.026
+  - sudad: 0.0244
+  - era: 0.0218
+  - días: 0.0208
+  - con: 0.0208
+  - suda: 0.0131
+  - arte: 0.0114
+FIN DE PRUEBA
+[2026-06-24 01:16:40]
+Texto extraido de Gemini:
+Te pareces a la chupitos, en buena onda lo digo. Por qué no buscas a una asesora de imagen que te recomiende tipos de corte en ropa, los colores que te quedan bien y que te enseñe cómo vestirte y maquillarte, te ayudaría mucho a vestir bien para cada ocasión y te haría sentir más segura. Ay no MMS q espanto Que honda con tus trensitas [emoji_cara_gritando_de_miedo][emoji_cara_gritando_de_miedo][emoji_cara_gritando_de_miedo]
+Resultado: Acoso
+  - tus: 0.1085
+  - maquillar: 0.0351
+  - tando: 0.0325
+  - itas: 0.0302
+  - segura: 0.0283
+  - anto: 0.0255
+  - más: 0.0232
+  - esp: 0.0209
+  - digo: 0.0204
+  - imagen: 0.0195
+  - que: 0.0195
+  - ocasión: 0.0188
+  - sentir: 0.0179
+  - con: 0.0177
+  - vestir: 0.0172
+FIN DE PRUEBA
+[2026-06-24 01:24:48]
+Texto extraido de Gemini:
+Los tenis [emoji_cara_de_náuseas] Decían las abuelitas dios hizo la pobreza pero no la suciedad la mugre lava tus tenis tu aspecto Ni siquiera ya te tomas la molestia de picar y preparar tus alimentos con cariño es la razón la cual tu nena no quiso torta, Que pedazotes de salchicha todo el pan viejo ay no pobres niños Ni asi ando en mis dias de descanso...
+Resultado: Acoso
+  - gre: 0.1976
+  - tus: 0.1168
+  - lava: 0.0645
+  - aspecto: 0.0495
+  - tomas: 0.033
+  - tenis: 0.0304
+  - siquiera: 0.0281
+  - molestia: 0.0024
+  - picar: 0.0007
+  - dios: 0.0003
+  - hizo: 0.0003
+  - pobreza: 0.0003
+  - pero: 0.0003
+  - suciedad: 0.0003
+  - asi: 0.0002
+FIN DE PRUEBA
+[2026-06-24 01:37:55]
+Texto extraido de Gemini:
+Gracias a Dios, mis hijas no se visten así, las he sabido educar bien y eso que no soy rica he! Pero es opcional la forma de vestir de cada quien!! [emoji_cara_sonriendo_con_sudor_frío][emoji_pulgar_hacia_arriba] Chido offit morrilla yo antes me vestía así también [emoji_pulgar_hacia_arriba][emoji_cara_sonriendo_con_sudor_frío] Get redi wit mi jajajajajajaja con sus paredes de cartón y block [emoji_cara_llorando_de_risa][emoji_pulgar_hacia_arriba][emoji_cara_gritando_de_miedo] Ese pañuelo nada que ver [emoji_cara_de_desaprobación] meior uno
+Resultado: Neutral
+  - frío: 0.0557
+  - cartón: 0.0187
+  - sus: 0.0186
+  - riendo: 0.0151
+  - Get: 0.0141
+  - jajaj: 0.0119
+  - ajaj: 0.0105
+  - cara: 0.0052
+  - ajaja: 0.0048
+  - con: 0.0035
+  - riba: 0.0025
+  - paredes: 0.0019
+  - ior: 0.0018
+  - blo: 0.0015
+  - que: 0.0014
+FIN DE PRUEBA
+[2026-06-24 01:45:34]
+Texto extraido de Gemini:
+Por que un pantalón de camionero? La neta te ves chidilla JAJAJJAA Estás loquita [emoji_cara_sonriendo_con_gafas_de_sol][emoji_corazón_rojo] Todo que ver menos el top,ese color [emoji_mujer_con_la_mano_en_la_frente] Que barbaridad [emoji_mujer_con_la_mano_en_la_frente][emoji_cara_exhalando] Esos es vestirse?
+Resultado: Acoso
+  - cora: 0.0826
+  - barbaridad: 0.0789
+  - zón: 0.0588
+  - mujer: 0.0394
+  - Que: 0.0353
+  - ves: 0.0216
+  - mano: 0.0199
+  - ese: 0.0191
+  - con: 0.019
+  - color: 0.0173
+  - tás: 0.0142
+  - vestirse: 0.0141
+  - camion: 0.0123
+  - ero: 0.0123
+  - pantalón: 0.012
+FIN DE PRUEBA
+[2026-06-24 01:59:18]
+Texto extraido de Gemini:
+Pinche pañuelo mas viejo que el que usaba mi abuelo pa' limpiarse los mocos [emoji_cara_revolviéndose_de_la_risa][emoji_cara_revolviéndose_de_la_risa] Y la arreglada al cuarto cuando Mejor dile que te compre ropa Que chulada de morrilla [emoji_cara_sonriendo_con_gafas_de_sol][emoji_chispas][emoji_fuego] Si hubieras puesto un pañuelo azul o negro se hubiera visto más chilo [emoji_cara_saboreando_comida]
+Resultado: Neutral
+  - pas: 0.1319
+  - chis: 0.113
+  - que: 0.0569
+  - ropa: 0.0364
+  - mor: 0.0218
+  - ada: 0.0167
+  - chul: 0.0152
+  - dile: 0.0135
+  - cuando: 0.013
+  - sol: 0.0128
+  - hub: 0.0116
+  - ieras: 0.011
+  - rilla: 0.01
+  - negro: 0.0097
+  - risa: 0.0085
+FIN DE PRUEBA
+[2026-06-24 03:39:21]
+Texto extraido de Gemini:
+Cada vez que veo roro me siento muy inútil [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] igual la amo, me encanta [emoji_cara_sonriendo_con_corazones] Nos sentimos [emoji_cara_llorando_de_risa] mana x10 y viendo un blog de ella me doy cuenta que el día para ella tiene 70 horas X2 Que chiste habrá contado Pablo?
+Resultado: Neutral
+  - cora: 0.0007
+  - zones: 0.0004
+  - ella: 0.0004
+  - siento: 0.0003
+  - inútil: 0.0003
+  - para: 0.0003
+  - veo: 0.0002
+  - encanta: 0.0002
+  - muy: 0.0001
+  - risa: 0.0001
+  - man: 0.0001
+  - viendo: 0.0001
+  - blog: 0.0001
+  - doy: 0.0001
+  - tiene: 0.0001
+FIN DE PRUEBA
+[2026-06-24 03:40:01]
+Texto extraido de Gemini:
+Wow, no sabía este lado de la moneda de Bárbara [emoji_cara_sonrojada] creo que la imagen que tenia de ella cambió completamente Todo lo que sufriste y pasaste, cambiaste tu vida por tu hija y eres una excelente madre [emoji_corazón_rojo] yo la entiendo perfectamente [emoji_cara_sonriendo_con_corazones] también tuve a mi hija a temprana edad porque quería un amor real , una parte de mi que pudiera amar como siempre quise ser amada [emoji_cara_sonriendo_con_corazones]
+Resultado: Neutral
+  - cora: 0.0007
+  - zón: 0.0004
+  - zones: 0.0003
+  - que: 0.0002
+  - sufr: 0.0002
+  - iste: 0.0002
+  - aste: 0.0002
+  - cambi: 0.0002
+  - vida: 0.0002
+  - eres: 0.0002
+  - completamente: 0.0001
+  - Todo: 0.0001
+  - pas: 0.0001
+  - por: 0.0001
+  - hija: 0.0001
+FIN DE PRUEBA
+[2026-06-24 03:41:30]
+Texto extraido de Gemini:
+yo que trago y trago y no supo de peso[emoji_cara_llorando_de_risa] [emoji_cara_sonrojada][emoji_cara_sonrojada] Yo soy la hermana del enojon [emoji_cara_sonriendo_con_sudor_frío][emoji_mono_con_los_ojos_tapados][emoji_cara_llorando_de_risa][emoji_cara_revolviéndose_de_la_risa] [emoji_cara_sonrojada][emoji_cara_sonrojada][emoji_cara_sonrojada]
+Resultado: Neutral
+  - son: 0.0035
+  - frío: 0.0033
+  - riendo: 0.0029
+  - con: 0.0009
+  - mono: 0.0006
+  - trago: 0.0004
+  - que: 0.0002
+  - hermana: 0.0002
+  - del: 0.0002
+  - jos: 0.0002
+  - vol: 0.0002
+  - viéndose: 0.0002
+  - supo: 0.0001
+  - peso: 0.0001
+  - cara: 0.0001
+FIN DE PRUEBA
+[2026-06-24 03:42:12]
+Texto extraido de Gemini:
+por eso tas pinto güey esa carne bien cruda [emoji_cara_llorando_de_risa] Llego el come suelas [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Ahí viene el fracaso de la familia CORRAN!!! Busca los términos de las carnes, Mi come bisteces
+Resultado: Neutral
+  - familia: 0.0542
+  - fracaso: 0.0512
+  - ces: 0.0501
+  - RAN: 0.0331
+  - iste: 0.0306
+  - las: 0.0149
+  - Lle: 0.0138
+  - ando: 0.0118
+  - términos: 0.0099
+  - risa: 0.0097
+  - Busca: 0.0096
+  - come: 0.009
+  - lor: 0.0047
+  - sue: 0.0046
+  - los: 0.0045
+FIN DE PRUEBA
+[2026-06-24 03:51:52]
+Texto extraido de Gemini:
+Yo tuve uno así que horror [emoji_cara_llorando_de_risa] Ayyy mana que horror jajaja Siiii [emoji_cara_sonrojada] Afortunadamente ya saliste de ahí hermana, que aguante [emoji_cara_agotada][emoji_dedos_juntos_apuntando_hacia_arriba] 2 albondigas me como yo y con tortillasssss [emoji_cara_llorando_de_risa]
+Resultado: Neutral
+  - jajaja: 0.0012
+  - tuve: 0.0003
+  - que: 0.0002
+  - horror: 0.0002
+  - uno: 0.0001
+  - man: 0.0001
+  - iii: 0.0001
+  - sal: 0.0001
+  - iste: 0.0001
+  - ahí: 0.0001
+  - hermana: 0.0001
+  - así: 0.0
+  - cara: 0.0
+  - lor: 0.0
+  - ando: 0.0
+FIN DE PRUEBA
+[2026-06-27 23:57:29]
+Texto extraido de Gemini:
+¿La paz mundial o saber cómo detona Zayn Malik? es preocupante la obsesión que tengo hacía él pero no me interesa es el amor de mi vida [emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones] ya lo dijo Perrie en una canción oh zayn malik, yo si hubiese llamado a una amiga
+Resultado: Neutral
+  - cora: 0.0008
+  - mal: 0.0008
+  - zones: 0.0004
+  - pero: 0.0001
+  - interesa: 0.0001
+  - amor: 0.0001
+  - vida: 0.0001
+  - cara: 0.0001
+  - dijo: 0.0001
+  - Per: 0.0001
+  - rie: 0.0001
+  - una: 0.0001
+  - canción: 0.0001
+  - paz: 0.0
+  - mundial: 0.0
+FIN DE PRUEBA
+[2026-06-27 23:58:28]
+Texto extraido de Gemini:
+Es que estas gorda.... El verdadero, come y come y no se llena Estas muy hermosa corazón [emoji_cara_sonriendo_con_corazones] Vamos al gym ocupo gymbro[emoji_cara_aguantándose_las_lágrimas][emoji_fuego]
+Resultado: Neutral
+  - come: 0.0684
+  - gorda: 0.0394
+  - cora: 0.0337
+  - estas: 0.0283
+  - Vamos: 0.0263
+  - corazón: 0.0242
+  - grimas: 0.0236
+  - que: 0.0229
+  - agu: 0.0175
+  - bro: 0.0144
+  - cara: 0.014
+  - con: 0.0113
+  - las: 0.0113
+  - llena: 0.0085
+  - muy: 0.0072
+FIN DE PRUEBA
+[2026-06-27 23:59:31]
+Texto extraido de Gemini:
+Oye Oye Oye Oyeeeeeeeeeeee Mande. No me ah bajado. Y me tocaba desde el 12. No mms. [emoji_cara_preocupada] Vas a ser mamá soltera. [emoji_cara_suplicante][emoji_corazón_rojo]
+Resultado: Neutral
+  - Vas: 0.1139
+  - preocu: 0.0717
+  - cora: 0.0656
+  - ser: 0.0553
+  - tocaba: 0.0534
+  - rojo: 0.0486
+  - zón: 0.043
+  - soltera: 0.0337
+  - icante: 0.011
+  - bajado: 0.0101
+  - cara: 0.0094
+  - mamá: 0.0067
+  - desde: 0.0037
+  - eeeeeeee: 0.0014
+  - eeee: 0.0014
+FIN DE PRUEBA
+[2026-06-28 00:05:12]
+Texto extraido de Gemini:
+CADA WEYYYY TUVO SU CHANCE JAJAJA, JAJAJA El reportero toda la entrevista para los envidiosos esto no es I.A [emoji_cara_llorando_de_risa]
+Resultado: Acoso
+  - envid: 0.337
+  - iosos: 0.1828
+  - esto: 0.061
+  - toda: 0.0512
+  - reportero: 0.047
+  - JAJA: 0.0305
+  - los: 0.029
+  - entrevista: 0.0178
+  - para: 0.0098
+  - CADA: 0.0009
+  - cara: 0.0004
+  - lor: 0.0004
+  - ando: 0.0004
+  - risa: 0.0003
+FIN DE PRUEBA
+[2026-06-28 00:09:27]
+Texto extraido de Gemini:
+Los mensajes y las llamadas están cifrados de extremo a extremo. Nadie fuera de este chat, ni siquiera WhatsApp, puede leerlos ni escucharlos. Toca para obtener más información. Buenas tardes profesor Soy alumna del grupo 1CV34 de laboratorio de química clásica El motivo de mi mensaje es para preguntar si el día de hoy se realizará alguna práctica de laboratorio Gracias buen dia . Hola buenas tardes...según el calendario hoy no hay laboratorio....hasta la próxima semana será la práctica 3....hoy solo entregaré calificaciones Okey profesor muchas gracias buen día [emoji_cara_feliz_con_ojos_sonrientes][emoji_chispas]
+Resultado: Neutral
+  - tardes: 0.0003
+  - información: 0.0002
+  - Buenas: 0.0002
+  - mensajes: 0.0001
+  - rados: 0.0001
+  - extremo: 0.0001
+  - adie: 0.0001
+  - los: 0.0001
+  - escuchar: 0.0001
+  - obtener: 0.0001
+  - más: 0.0001
+  - del: 0.0001
+  - grupo: 0.0001
+  - laboratorio: 0.0001
+  - química: 0.0001
+FIN DE PRUEBA
+[2026-06-28 00:20:34]
+Texto extraido de Gemini:
+Ey mami estoy caliente [emoji_mono_con_los_ojos_tapados] Puedo ver tu [emoji_melocotón][emoji_dorso_de_mano_con_índice_a_la_derecha] Manda foto [emoji_cámara_con_flash][emoji_colisión] Vamos perra [emoji_berenjena] Wow me encantas [emoji_cara_con_calor][emoji_cara_con_calor][emoji_cara_con_calor] Estás muy caliente [emoji_fuego] Vergaaaaaa
+Resultado: Acoso
+  - tón: 0.066
+  - ver: 0.0371
+  - foto: 0.0333
+  - enj: 0.0302
+  - ena: 0.0259
+  - encan: 0.0224
+  - tas: 0.0224
+  - mano: 0.0218
+  - isión: 0.0202
+  - cámara: 0.0183
+  - Man: 0.0182
+  - ber: 0.0181
+  - con: 0.0143
+  - col: 0.0102
+  - lash: 0.009
+FIN DE PRUEBA
+[2026-06-28 00:28:21]
+Texto extraido de Gemini:
+Hola hermosaaaaa Me encantas [emoji_melocotón][emoji_dorso_de_mano_con_índice_a_la_derecha][emoji_berenjena] Por favor Te vigilando en la escuela [emoji_ojos] Me encanta tu olor [emoji_fuego][emoji_cara_con_calor][emoji_cara_con_calor] Tu me encantas [emoji_cara_con_calor] Me pones cachondo
+Resultado: Acoso
+  - pones: 0.0715
+  - enj: 0.0607
+  - ber: 0.037
+  - ena: 0.0344
+  - favor: 0.0294
+  - tón: 0.0251
+  - encan: 0.0202
+  - Por: 0.0195
+  - Hola: 0.0163
+  - jos: 0.0154
+  - tas: 0.013
+  - vigil: 0.0126
+  - escuela: 0.0124
+  - uego: 0.0121
+  - cal: 0.0117
+FIN DE PRUEBA
+[2026-06-28 00:31:12]
+Texto extraido de Gemini:
+Sal de ahí maldita [emoji_ratón][emoji_rata] Te tengo en la mira [emoji_ojos] Estás muerta [emoji_calavera] Ay pinche perra no te tengo miedo [emoji_cabeza_parlante][emoji_dedo_corazón_hacia_arriba][emoji_dedo_corazón_hacia_arriba] Solo ladras y no haces nada [emoji_cara_con_ojos_en_blanco][emoji_puño_cerrado] Primero quiérete zorrita [emoji_cara_enfadada][emoji_cara_con_símbolos_en_la_boca] Voy por ti última vida [emoji_fuego]
+Resultado: Acoso
+  - muerta: 0.0511
+  - adada: 0.0397
+  - tengo: 0.0289
+  - tás: 0.0267
+  - rete: 0.0263
+  - por: 0.0238
+  - zón: 0.0225
+  - cora: 0.02
+  - jos: 0.0185
+  - ahí: 0.0103
+  - Sal: 0.0092
+  - mira: 0.0086
+  - rita: 0.0081
+  - maldita: 0.0076
+  - rata: 0.0075
+FIN DE PRUEBA
+[2026-06-28 00:41:00]
+Texto extraido de Gemini:
+Estás muerta [emoji_calavera_y_huesos_cruzados] Ay pinche perra no te tengo miedo [emoji_cabeza_parlante][emoji_dedo_corazón_hacia_arriba][emoji_dedo_corazón_hacia_arriba] Solo ladras y no haces nada [emoji_cara_con_ojos_en_blanco][emoji_puño_en_alto] Primero quiérete zorrita [emoji_cara_cabreada][emoji_cara_con_símbolos_en_la_boca] Voy por ti última vida [emoji_fuego] Tú
+Voy por ti última vida [emoji_fuego]
+Pues ven puta [emoji_calavera_y_huesos_cruzados]
+Resultado: Acoso
+  - rete: 0.0426
+  - zón: 0.0268
+  - cora: 0.0235
+  - haces: 0.0196
+  - muerta: 0.0177
+  - nada: 0.0173
+  - Solo: 0.0155
+  - tengo: 0.0151
+  - miedo: 0.0151
+  - puta: 0.0147
+  - ada: 0.0137
+  - bol: 0.0134
+  - por: 0.0132
+  - tás: 0.0128
+  - cab: 0.0124
+FIN DE PRUEBA
+[2026-06-28 00:42:49]
+Texto extraido de Gemini:
+[emoji_cuchillo_de_cocina][emoji_cuchillo_de_cocina][emoji_cuchillo_de_cocina][emoji_cuchillo_de_cocina] [emoji_gota_de_sangre][emoji_gota_de_sangre][emoji_gota_de_sangre] Me estoy enojando malditaa Sal de tu casa Juro que estás muerto [emoji_cuchillo_de_cocina][emoji_cara_sin_expresión] Jajajaja No te perdonaré lo que me hiciste [emoji_fuego][emoji_cara_cabreada][emoji_cara_cabreada][emoji_cara_cabreada]
+Resultado: Acoso
+  - casa: 0.0354
+  - gre: 0.0337
+  - estás: 0.0309
+  - san: 0.0248
+  - que: 0.0241
+  - muerto: 0.0187
+  - ando: 0.0132
+  - chillo: 0.0103
+  - uro: 0.0073
+  - maldita: 0.0064
+  - estoy: 0.0049
+  - Sal: 0.0049
+  - cara: 0.0046
+  - sin: 0.0046
+  - cocina: 0.0039
+FIN DE PRUEBA
+[2026-06-28 00:44:59]
+Texto extraido de Gemini:
+Hola Amix Oye una pregunta Jajaja Pusiste a Jen en los ejercicios de Brau [emoji_cara_llorando_fuerte] No le puse nombres Entonces [emoji_cara_llorando_fuerte] Pues subí los ejercicios nomas ya si pregunta le diho que yo los hice solo
+Resultado: Neutral
+  - pregunta: 0.0434
+  - iste: 0.0212
+  - los: 0.0171
+  - Hola: 0.0141
+  - ajaja: 0.0114
+  - una: 0.0105
+  - Jen: 0.0078
+  - Bra: 0.0023
+  - cara: 0.0023
+  - ejercicios: 0.0018
+  - fuerte: 0.0012
+  - nombres: 0.001
+  - lor: 0.0009
+  - tonces: 0.0007
+  - ando: 0.0002
+FIN DE PRUEBA
+[2026-06-28 00:46:20]
+Texto extraido de Gemini:
+Los Autómatas independientes del contexto, también conocidos como Gramáticas Independientes del Contexto, forman parte de la Clase 2 de la jerarquía de Chomsky y son capaces de reconocer lenguajes independientes del contexto, es decir, lenguajes que no pueden ser reconocidos por un Autómata Finito o una Expresión Regular.
+
+Por otro lado, los descendientes del contexto son un tipo de gramática que está por debajo de las Gramáticas Independientes del Contexto en la jerarquía de Chomsky, formando parte de la Clase 1. Estas gramáticas generan lenguajes que son más restringidos que los lenguajes independientes del contexto, ya que presentan ciertas limitaciones en cuanto a la estructura de las reglas de producción.
+
+En resumen, los Autómatas independientes del contexto son capaces de reconocer lenguajes más complejos que los Autómatas Finitos y las Expresiones Regulares, mientras que los descendientes del contexto generan lenguajes aún más restrictivos que los lenguajes independientes del contexto.
+Resultado: Neutral
+  - contexto: 0.0003
+  - reconocer: 0.0003
+  - lenguajes: 0.0003
+  - jerarquía: 0.0002
+  - oms: 0.0002
+  - independientes: 0.0001
+  - del: 0.0001
+  - son: 0.0001
+  - capaces: 0.0001
+  - ser: 0.0001
+  - reconocidos: 0.0001
+  - por: 0.0001
+  - mata: 0.0001
+  - presión: 0.0001
+  - Reg: 0.0001
+FIN DE PRUEBA
+[2026-06-28 00:48:01]
+Texto extraido de Gemini:
+Adivina qué Joyyyy [emoji_cara_con_la_boca_abierta] Ves que les dije del wey de mi salón??? Ves que les dije del wey de mi salón???
+Holiii Tú lo sigues en insta Si si si Tú lo sigues en insta
+Siii es amigo de un amigo mío de
+analisis Pero a el no le hablo DIME MAÑANA
+Resultado: Neutral
+  - qué: 0.0509
+  - salón: 0.0392
+  - amigo: 0.0308
+  - sigues: 0.0255
+  - ina: 0.0207
+  - insta: 0.0133
+  - que: 0.0129
+  - Hol: 0.0127
+  - les: 0.0112
+  - Pero: 0.0094
+  - cara: 0.0079
+  - mío: 0.0079
+  - dije: 0.0063
+  - iii: 0.0061
+  - isis: 0.006
+FIN DE PRUEBA
+[2026-06-28 00:54:41]
+Texto extraido de Gemini:
+Se mama el gobierno con sus escenarios hipotéticos del sismo, cuando pasa algo, es el pueblo quien entra en acción Se produjo un error. Comprueba tu conexión y vuelve a intentarlo.
+Resultado: Neutral
+  - prueba: 0.1002
+  - vuelve: 0.094
+  - escenarios: 0.0722
+  - intentarlo: 0.0643
+  - mama: 0.0467
+  - error: 0.0392
+  - hipo: 0.0361
+  - produjo: 0.0358
+  - cuando: 0.0343
+  - algo: 0.0329
+  - pasa: 0.0306
+  - del: 0.0294
+  - entra: 0.0289
+  - téticos: 0.0259
+  - sus: 0.0214
+FIN DE PRUEBA
+[2026-06-28 01:32:39]
+Texto extraido de Gemini:
+los rumores son ciertos: cada día me vale más vrg [emoji_corazón_marrón] Enséñale a tus hijos a orar, para que cuando sus corazones estén rotos vayan a Dios y no al mundo. ¿Qué Curso Quieres [emoji_estudiante_mujer][emoji_cara_feliz_con_ojos_sonrientes]?... Ver más
+Resultado: Neutral
+  - corazones: 0.1285
+  - Curso: 0.1115
+  - feliz: 0.0504
+  - mujer: 0.0466
+  - Dios: 0.0462
+  - estudi: 0.0377
+  - estén: 0.0348
+  - tus: 0.0347
+  - rumores: 0.0343
+  - más: 0.0307
+  - Qué: 0.03
+  - cuando: 0.0279
+  - son: 0.022
+  - ale: 0.022
+  - mundo: 0.0216
+FIN DE PRUEBA
+[2026-06-28 01:33:48]
+Texto extraido de Gemini:
+q opinan, me enamoro otra vez o pido un huarache con biste ¡NO COMPRES UN CALENDARIO DE ADVIENTO DE LEGO HASTA LEER ESTO! Mi hermana trabaja en LEGO y me cont... Ver más
+Resultado: Neutral
+  - trabaja: 0.0622
+  - pido: 0.0369
+  - ESTO: 0.0314
+  - hermana: 0.0238
+  - oro: 0.0179
+  - opinan: 0.0137
+  - vez: 0.0102
+  - che: 0.0093
+  - HASTA: 0.0067
+  - otra: 0.0054
+  - IENTO: 0.0039
+  - más: 0.0039
+  - Ver: 0.0038
+  - ara: 0.003
+  - iste: 0.0022
+FIN DE PRUEBA
+[2026-06-28 01:35:18]
+Texto extraido de Gemini:
+cosas q m gustan segun mi amigos Tu pack y opinó de ti. Este Día internacional del café celebra ... Ver más
+Resultado: Neutral
+  - café: 0.2638
+  - opin: 0.1707
+  - amigos: 0.1519
+  - gustan: 0.1116
+  - Ver: 0.0892
+  - pack: 0.0858
+  - celebra: 0.0487
+  - Día: 0.0328
+  - más: 0.031
+  - Este: 0.0183
+  - internacional: 0.0133
+  - del: 0.0081
+  - cosas: 0.0034
+  - segun: 0.003
+FIN DE PRUEBA
+[2026-06-28 01:36:36]
+Texto extraido de Gemini:
+Los mensajes y las llamadas están cifrados de extremo a extremo. Solo las personas en este chat pueden leerlos, escucharlos o compartirlos. Obtén más información. [emoji_cronómetro] Usas una duración predeterminada para los mensajes temporales en chats nuevos. Los mensajes nuevos desaparecerán de este chat después de 90 días de haber sido enviados, a menos que se use la opción para conservarlos. Toca para establecer la duración predeterminada que desees. Hola Aún estás en el grupo de Sabas ? No Esa no la curso Okey gracias [emoji_mano_saludando]
+Resultado: Neutral
+  - estás: 0.0003
+  - opción: 0.0002
+  - salud: 0.0002
+  - mensajes: 0.0001
+  - cron: 0.0001
+  - duración: 0.0001
+  - predetermin: 0.0001
+  - ada: 0.0001
+  - para: 0.0001
+  - chats: 0.0001
+  - nuevos: 0.0001
+  - Hola: 0.0001
+  - key: 0.0001
+  - gracias: 0.0001
+  - ando: 0.0001
+FIN DE PRUEBA
+[2026-06-28 01:37:58]
+Texto extraido de Gemini:
+Ey mami estoy caliente [emoji_mono_con_los_ojos_tapados] Puedo ver tu [emoji_melocotón][emoji_dorso_de_mano_con_índice_a_la_derecha] Manda foto [emoji_cámara_con_flash][emoji_colisión] Vamos perra [emoji_berenjena] Wow me encantas [emoji_cara_con_calor][emoji_cara_con_calor][emoji_cara_con_calor] Estás muy caliente [emoji_fuego] Vergaaaaa
+Resultado: Acoso
+  - tón: 0.0653
+  - ver: 0.037
+  - foto: 0.0361
+  - enj: 0.0294
+  - ena: 0.0261
+  - cámara: 0.0217
+  - mano: 0.0215
+  - encan: 0.0208
+  - tas: 0.0208
+  - isión: 0.0199
+  - Man: 0.0196
+  - ber: 0.0183
+  - con: 0.0147
+  - lash: 0.0101
+  - col: 0.01
+FIN DE PRUEBA
+[2026-06-28 01:38:56]
+Texto extraido de Gemini:
+Gracias. [emoji_pulgar_hacia_arriba] Buenas tardes profesor Disculpe que lo moleste Mis compañeros quieren saber si mañana tenemos clase? [emoji_cara_con_manos_abrazando] Gracias Que tal Jovanna, les comentaba que el martes nos veiamos para darles la calificación vale? [emoji_pulgar_hacia_arriba] Okey profe muchas gracias!
+Resultado: Neutral
+  - gracias: 0.0006
+  - Gracias: 0.0003
+  - clase: 0.0003
+  - Buenas: 0.0002
+  - tenemos: 0.0002
+  - muchas: 0.0002
+  - riba: 0.0001
+  - tardes: 0.0001
+  - este: 0.0001
+  - abra: 0.0001
+  - zando: 0.0001
+  - Que: 0.0001
+  - tal: 0.0001
+  - profe: 0.0001
+  - pul: 0.0
+FIN DE PRUEBA
+[2026-06-28 01:39:53]
+Texto extraido de Gemini:
+Lupita Berumen [emoji_adn][emoji_cara_sonriendo_con_corazones] Equis, somos novios. Mi novia: quien es mi bebechito emoshoo? Yo:
+Resultado: Neutral
+  - cora: 0.1099
+  - zones: 0.057
+  - con: 0.0367
+  - riendo: 0.0335
+  - cara: 0.0326
+  - son: 0.0301
+  - somos: 0.0156
+  - quien: 0.0155
+  - mos: 0.0141
+  - quis: 0.0124
+  - umen: 0.0106
+  - beb: 0.0085
+  - ech: 0.0067
+  - Ber: 0.0065
+  - novios: 0.0063
+FIN DE PRUEBA
+[2026-06-28 01:41:30]
+Texto extraido de Gemini:
+Lindohermoso[emoji_cara_sonriendo_con_corazones] Saquen algo pal 15, si tengo familia pero no saben como gritan los ñeros. [emoji_pulgar_hacia_arriba][emoji_cara_agotada]
+Resultado: Acoso
+  - gri: 0.1175
+  - saben: 0.0841
+  - familia: 0.0836
+  - tan: 0.0833
+  - cora: 0.0579
+  - ñeros: 0.0557
+  - indo: 0.0454
+  - pul: 0.0349
+  - los: 0.0282
+  - zones: 0.0241
+  - quen: 0.0218
+  - cara: 0.0192
+  - gar: 0.0191
+  - tengo: 0.0169
+  - hermoso: 0.012
+FIN DE PRUEBA
+[2026-06-28 01:44:26]
+Texto extraido de Gemini:
+Susana Distancia y su amigo Abraham SeALaVerga. Su archienemigo El Larry Mon
+Resultado: Acoso
+  - igo: 0.4027
+  - ien: 0.1611
+  - Distancia: 0.1391
+  - Abraham: 0.1183
+  - amigo: 0.1159
+  - Larry: 0.043
+  - Ver: 0.0428
+  - Susana: 0.0316
+  - arch: 0.0237
+  - Mon: 0.0125
+FIN DE PRUEBA
+[2026-06-28 01:48:01]
+Texto extraido de Gemini:
+Hola mi niña hermosa!! [emoji_mujer_pelo_pelirrojo][emoji_girasol] Feliz día de la mujers !!! [emoji_cañón_de_confeti][emoji_cara_de_fiesta][emoji_globo][emoji_bola_de_confeti][emoji_globo] ya sabes que te amo y te admiro muchísimo !!! Eres una mujer increíble y quiero aprovechar para decirte lo que veo en Ti, eres creativa, [emoji_artista] perseverante,tierna,bondadosa,responsable, inteligente, comprensiva pero sobre todo tienes tanto amor [emoji_corazón_rojo] y por eso me siento tan orgullosa de Ti que no te rindes ante cualquier obstáculo sales adelante aunque las cosas de la vida sean de verdad un reto, me siento muy bien de la persona en la que te has convertido y que aunque tengo muchos errores como mamá sé que he hecho un gran trabajo pues soy Tú fiel admiradora te amo mi niña [emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones] [emoji_corazón_rojo] [emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado][emoji_corazón_morado] Disfruta tu día!!! Diviértete sanamente [emoji_cara_feliz_con_ojos_sonrientes] [emoji_corazón_rojo]
+Resultado: Neutral
+  - Hola: 0.0
+  - niña: 0.0
+  - hermosa: 0.0
+  - mujer: 0.0
+  - pelo: 0.0
+  - pel: 0.0
+  - rojo: 0.0
+  - iras: 0.0
+  - Feliz: 0.0
+  - día: 0.0
+  - ers: 0.0
+  - ñón: 0.0
+  - con: 0.0
+  - cara: 0.0
+  - iesta: 0.0
+FIN DE PRUEBA
+[2026-06-28 01:49:07]
+Texto extraido de Gemini:
+[emoji_cara_pensativa] si claro, lo tomo en cuenta al llegarme la notificación vale? Buenos días profesor, espero se encuentre bien [emoji_cara_sonriendo_ligeramente] Un compañero me pidio que le compartiera su número, será posible que pueda pasarlo ?? Gracias Buenas tardes profesor Mis compañeros me preguntan si el día de mañana tendremos clase? Gracias, buen día! Hola! Nos vemos el martes! Buenos días profesor Espero se encuentre bien [emoji_cara_sonriendo_ligeramente], disculpe que lo moleste, pero los compañeros que asistimos a la visita queremos saber qué día realizaremos el examen del segundo parcial?, gracias . Buen día [emoji_chispas]
+Resultado: Neutral
+  - Buenos: 0.0001
+  - días: 0.0001
+  - día: 0.0001
+  - buen: 0.0001
+  - cara: 0.0
+  - pensa: 0.0
+  - tiva: 0.0
+  - claro: 0.0
+  - tomo: 0.0
+  - cuenta: 0.0
+  - llegar: 0.0
+  - notificación: 0.0
+  - vale: 0.0
+  - profesor: 0.0
+  - espero: 0.0
+FIN DE PRUEBA
+[2026-06-28 01:51:44]
+Texto extraido de Gemini:
+ZZONAEDUCA.com EL CINE TE ESPERA INSCRIPCIÓN REALIZADA CON ÉXITO LUGAR: México - CDMX - CINEMEX TLAHUAC DOMINGO FECHA Y HORARIO: 2025-02-23 12:20 (SONIC 3) Las butacas son por orden de llegada. ¡Todo listo para vivir la magia del cine con tu familia! Recuerda presentar tu boleto físico y llegar 20 minutos antes. ¡Esperamos tu visita!
+Resultado: Neutral
+  - magia: 0.0001
+  - cine: 0.0001
+  - Recuer: 0.0001
+  - presentar: 0.0001
+  - boleto: 0.0001
+  - Esperamos: 0.0001
+  - visita: 0.0001
+  - ONA: 0.0
+  - UCA: 0.0
+  - com: 0.0
+  - CINE: 0.0
+  - ESP: 0.0
+  - ERA: 0.0
+  - INS: 0.0
+  - CRIPCIÓN: 0.0
+FIN DE PRUEBA
+[2026-06-28 01:54:57]
+Texto extraido de Gemini:
+[emoji_flecha_hacia_la_derecha] Forwarded many times Derivado de un problema en el cuarto de bombas, se suspenden labores el día de mañana (20 de abril) A falta de comunicado en la página oficial de Esime Culhuacan, estén atentos a las indicaciones que se den por ese medio. Gracias y excelente noche.
+Resultado: Neutral
+  - cuarto: 0.0005
+  - Gracias: 0.0004
+  - excelente: 0.0004
+  - noche: 0.0004
+  - bombas: 0.0002
+  - atentos: 0.0002
+  - ward: 0.0001
+  - Der: 0.0001
+  - ivado: 0.0001
+  - problema: 0.0001
+  - estén: 0.0001
+  - las: 0.0001
+  - cha: 0.0
+  - hacia: 0.0
+  - derecha: 0.0
+FIN DE PRUEBA
+[2026-06-28 01:59:19]
+Texto extraido de Gemini:
+[emoji_corazón_rojo] Llamada perdida Hola bb, perdón se me trabó el messenger y lo desintale pero no agarra [emoji_cara_preocupada] [emoji_cara_agotada] Ni pude ver bien lo que me pusiste [emoji_cara_preocupada] Pero bueno, ya perdóname, no lo vuelvo a hacer. Por que te quiero a ti antes que otras personas que pues ni al caso Te amo mucho de verdad, pero me duele cuando me dices cosas como si yo no hiciera nada por nosotros o no demostrarte que te amo, por que de verdad siento que es algo que siempre piensas y solo cuando te enojas lo dices [emoji_cara_preocupada]
+Resultado: Neutral
+  - bueno: 0.0907
+  - preocu: 0.0737
+  - vuelvo: 0.0389
+  - Pero: 0.0296
+  - que: 0.0261
+  - Por: 0.0252
+  - caso: 0.0236
+  - siento: 0.0222
+  - cuando: 0.0195
+  - solo: 0.0195
+  - demostr: 0.0183
+  - arte: 0.0183
+  - hacer: 0.0165
+  - amo: 0.0163
+  - mucho: 0.0163
+FIN DE PRUEBA
+[2026-06-28 02:16:30]
+Texto extraido de Gemini:
+Okey, muchas gracias por la información, yo les aviso a mis compañeros [emoji_mano_saludando]
+Gracias, igualmente [emoji_chispas] Buen día, me están avisando que área central dio el día de mañana, por lo consiguiente no hay labores. Les dejo actividades en classroom. Gracias por el apoyo, coméntale a tus compañeros por favor Hola profesora, si claro yo les aviso [emoji_mano_abierta][emoji_chispas]
+Gracias lindo día [emoji_cara_con_manos_abrazando]
+Resultado: Neutral
+  - Gracias: 0.0003
+  - apoyo: 0.0002
+  - gracias: 0.0001
+  - por: 0.0001
+  - compañeros: 0.0001
+  - chis: 0.0001
+  - pas: 0.0001
+  - día: 0.0001
+  - actividades: 0.0001
+  - tus: 0.0001
+  - favor: 0.0001
+  - lindo: 0.0001
+  - key: 0.0
+  - muchas: 0.0
+  - información: 0.0
+FIN DE PRUEBA
+[2026-06-28 02:18:14]
+Texto extraido de Gemini:
+Hahaha si pero hay que pensar positivo Hola joy , oye de casualidad sabes si el martes tengamos que hacer alguna guia como la otra vez? para juan angel es que mi investigacion pues la verdad casi tiene 100 hoojas Hola Amix No, está vez no nos dijo nada [emoji_cara_triste_pero_aliviada] Se me hizo raro que no mencionara nada de la guía [emoji_cara_agotada] Bueno al menos las clases que fuí no dijo nada [emoji_cara_cansada] Si es que no dijo si dice algo pues ya tendremos que imprimir a la mera hora
+Resultado: Neutral
+  - guía: 0.0002
+  - que: 0.0001
+  - alguna: 0.0001
+  - guia: 0.0001
+  - nada: 0.0001
+  - mencion: 0.0001
+  - ara: 0.0001
+  - Bueno: 0.0001
+  - tendremos: 0.0001
+  - pero: 0.0
+  - hay: 0.0
+  - pensar: 0.0
+  - positivo: 0.0
+  - Hola: 0.0
+  - joy: 0.0
+FIN DE PRUEBA
+[2026-06-28 02:19:05]
+Texto extraido de Gemini:
+Solo déjenme verificar Que esté todo bien y en 10 empezamos si es que ya funciona Si alguien ha usado Taro Hosting y le sabe me dice xD Tmbn el q le quiera mover al discord mande md, solo los primeros tmbn no se pasen, yo sé que todos sabemos para ya compartirlo
+Resultado: Neutral
+  - Hosting: 0.0316
+  - sabe: 0.0244
+  - bien: 0.0233
+  - Taro: 0.0156
+  - empezamos: 0.0096
+  - todo: 0.0078
+  - esté: 0.0074
+  - alguien: 0.0074
+  - Que: 0.0037
+  - usado: 0.0028
+  - quiera: 0.0027
+  - que: 0.0026
+  - funciona: 0.0024
+  - jen: 0.0021
+  - dice: 0.0019
+FIN DE PRUEBA
+[2026-06-28 02:20:03]
+Texto extraido de Gemini:
+ni idea padre santo, yo si tengo mi foto en el mural de Concho Donde esta ?? [emoji_cara_suplicante][emoji_corazón_brillante] Orizaba 34 Roma norte México [emoji_bandera_perú][emoji_estadio] Yo amo tanto a Concho que me lo tatué [emoji_cara_suplicante][emoji_apretón_de_manos]
+Resultado: Neutral
+  - cora: 0.0009
+  - manos: 0.0005
+  - zón: 0.0002
+  - Con: 0.0001
+  - cho: 0.0001
+  - icante: 0.0001
+  - illante: 0.0001
+  - izaba: 0.0001
+  - que: 0.0001
+  - tatu: 0.0001
+  - pre: 0.0001
+  - tón: 0.0001
+  - idea: 0.0
+  - padre: 0.0
+  - santo: 0.0
+FIN DE PRUEBA
+[2026-06-28 23:20:37]
+Texto extraido de Gemini:
+jajaja Holaa :( voy a seguir con el documento vale [emoji_cara_con_manos_abrazando] Okis Yo saliendo de clases No to digo q no La prioridad es el doc ahorita Y las pruebas Yo saliendo de clases Sip yo estoy en mi casa yaa No to digo q no Ah okis [emoji_mano_con_dedo_índice_y_pulgar_cruzados] Y las pruebas Sip perdón ayer no hice [emoji_cara_suplicante] En cuanto me digas para que haga mis pruebas por fis [emoji_manos_levantadas_celebrando]
+Resultado: Neutral
+  - jajaja: 0.0002
+  - Hola: 0.0001
+  - voy: 0.0001
+  - saliendo: 0.0001
+  - clases: 0.0001
+  - digo: 0.0001
+  - las: 0.0001
+  - pruebas: 0.0001
+  - seguir: 0.0
+  - con: 0.0
+  - documento: 0.0
+  - vale: 0.0
+  - cara: 0.0
+  - manos: 0.0
+  - abra: 0.0
+FIN DE PRUEBA
+[2026-06-28 23:35:08]
+Texto extraido de Gemini:
+Que con no tan gorditos jaja Pues te cuento mi experiencia [emoji_cara_decepcionada] lo conocí por Tinder, y ya pasados los días de platicar pues ya entrados en tema que me manda un video de su [emoji_berenjena] y estaba súper chiquito, mi dedo gordo estaba más largo que esa cosa, y dije [emoji_cara_sonrojada] bueno será que apenas lo anda trabajando y ahorita le crece la onda, pues fue algo largo el video y nada más el video [emoji_dorso_de_la_mano][emoji_berenjena] y de repente PUM se acabó el video y me dice en ingenuo ¿te gustó? Y yo así de [emoji_cara_preocupada][emoji_cara_preocupada][emoji_cara_preocupada]... si claro mmmm que ricooo, y yo con mi cara de [emoji_cara_suplicante][emoji_cara_suplicante][emoji_cara_suplicante] detrás del celular, total que le di chance yo también teniendo fé, nos vimos y nos fuimos a un [emoji_hotel] y pues no más sentía golpecitos y yo nada más fingiendo que estaba en pleno éxtasis, claro que al día siguiente después de jurarnos una noche inolvidable, bloqueado [emoji_cara_revolviéndose_de_la_risa][emoji_cara_revolviéndose_de_la_risa][emoji_cara_revolviéndose_de_la_risa] panzonsito, regordete y pues de tamaño una decepción [emoji_cara_sonrojada] Que recetas de tingas tan más raras [emoji_cara_sonrojada][emoji_cara_llorando_de_risa] Yo la verdad no me había dado esa
+Resultado: Neutral
+  - Que: 0.0
+  - con: 0.0
+  - tan: 0.0
+  - gor: 0.0
+  - ditos: 0.0
+  - jaja: 0.0
+  - Pues: 0.0
+  - cuento: 0.0
+  - experiencia: 0.0
+  - cara: 0.0
+  - dec: 0.0
+  - cionada: 0.0
+  - conocí: 0.0
+  - por: 0.0
+  - Tin: 0.0
+FIN DE PRUEBA
+[2026-06-28 23:37:09]
+Texto extraido de Gemini:
+Muy caballeroso, detallista, amable, proveedor, casi todo lo que siempre queremos de un hombre, pero una decepción total a la hora del delicioso, súper diminuta, se canso un buen y estaba todo sudado. Y cuando yo dije bueno voy a intentar ser yo quien se rife la chamba y estuve arriba solo de ver cómo se le movía todo y nada mod no me acomodaba pues no quise repetirlo jamás. Debut y despedida [emoji_cara_con_ojos_en_blanco][emoji_cara_con_ojos_en_blanco]. Si se rifo un buen oral pero todo lo de más terrible. Y le di chance a otro gordito y de verdad le media como 5 cm y termino rapidísimo, una gran decepción. Porque todos dicen que les tocó de miembro pequeño, que tiene que ver el cuerpo con el miembro del hombre? [emoji_cara_sonrojada] Soy el único que ha estado con un gordo pero dotados(21 cm) [emoji_cara_guiñando_el_ojo] Yo tuve un gordito con muy buen miembro, ha sido de los mejores, duraba un buen dándome duro.
+Resultado: Neutral
+  - una: 0.0001
+  - decepción: 0.0001
+  - gran: 0.0001
+  - Muy: 0.0
+  - caballeros: 0.0
+  - detal: 0.0
+  - lista: 0.0
+  - amable: 0.0
+  - proveedor: 0.0
+  - casi: 0.0
+  - todo: 0.0
+  - que: 0.0
+  - siempre: 0.0
+  - queremos: 0.0
+  - hombre: 0.0
+FIN DE PRUEBA
+[2026-06-28 23:42:11]
+Texto extraido de Gemini:
+Porque siempre huele a loción aseado el hombre pero con el sudor y eso Las tienen muy chiquita y la panza ni se diga es muy estorbosa y solo quieren que te subas son muy flojos en mi experiencia propia no lo recomiendo [emoji_cara_haciendo_una_mueca] El pdo que soy gorda y chocan las panzas [emoji_cara_sin_expresión] soy team flacos bueno era pero encontré un pansita de capibara team sangre 10 de 10 [emoji_cara_sonriendo_con_estrellas] Estuve con uno muy gordo y mini pilin nada recomendable Muy buena A mi si me gustaria cuchiplanchar con un gordito q extraño mucho q tiene años q no veo y no se nada de el pero lo extraño [emoji_cara_suplicante]
+Resultado: Acoso
+  - subas: 0.115
+  - quieren: 0.1079
+  - que: 0.0922
+  - osa: 0.0407
+  - estor: 0.0364
+  - son: 0.0358
+  - solo: 0.0314
+  - muy: 0.0313
+  - anza: 0.0204
+  - Las: 0.0155
+  - tienen: 0.0153
+  - experiencia: 0.0092
+  - propia: 0.0092
+  - pero: 0.0085
+  - encontré: 0.0085
+FIN DE PRUEBA
+[2026-06-28 23:43:38]
+Texto extraido de Gemini:
+En mis treinta y tantos años he estado con 3 hombres, mi primer novio con quién dejé de ser virgen, con mi ex esposo con quién dure casi 15 años y con mi actual esposo. Los primeros 2 fueron hombres delgados, de buen aspecto físico pero uno lo tenía super chiquito [emoji_cara_revolviéndose_de_la_risa] y el otro se venía rápido osea lo guapo no les sirvió [emoji_cara_llorando_de_risa] y ahora con mi esposo que es gordito y yo lo veo guapísimo he tenido relaciones uuuuffff! Que me han llevado a las estrellas. Me encanta mi hombre, así gordito sabroso. Me excita muchísimo [emoji_cara_sonriendo_con_corazones] con él he tenido más orgasmo que con quién estuve casi la mitad de mi vida y que ni me hizo sentir nada. La neta se la rifa mi hombre gordito hermoso [emoji_cara_feliz_con_ojos_sonrientes] No importa él tampoco de la herramienta,lo que importa es como la mueva y nada más.prefiero gritar de placer,que de dolor. el mío suda bastante pero hay momentos que está cansado y no me puede aguantar tanto ritmo, en general no es pequeña pero su pancita de winnie no ayuda mucho [emoji_cara_triste_pero_aliviada]
+Resultado: Neutral
+  - importa: 0.0001
+  - mis: 0.0
+  - treinta: 0.0
+  - tantos: 0.0
+  - años: 0.0
+  - estado: 0.0
+  - con: 0.0
+  - hombres: 0.0
+  - primer: 0.0
+  - novio: 0.0
+  - quién: 0.0
+  - dejé: 0.0
+  - ser: 0.0
+  - virgen: 0.0
+  - esposo: 0.0
+FIN DE PRUEBA
+[2026-06-28 23:50:47]
+Texto extraido de Gemini:
+acostumbra uno jajaja ahora tengo a mi esposo gordito y yo soy chaparrita y no me gusta tanto jajaja es lujuria Las posibilidades son infinitas [emoji_marca_de_beso][emoji_fuego] Nunca he tenido problemas con eso y teníamos como 40 cm de diferencia en estatura Jajajajaja los gorditos y gorditas lo hacen bien porque se esfuerzan... no saben cuándo volverán a hacerlo [emoji_cara_de_loco][emoji_cara_llorando_de_risa] Es desmsdre, no se ataquen. [emoji_cara_vomitando][emoji_cara_de_náuseas] Pues yo 1.50 y el 2.10, le quedaba de valero pero en la cama era super rico, asi que en mi caso me una super herramienta pos yo feliz
+Resultado: Neutral
+  - posibilidades: 0.0012
+  - ata: 0.0011
+  - quen: 0.0011
+  - bien: 0.001
+  - cuándo: 0.001
+  - gor: 0.0008
+  - Las: 0.0008
+  - hacerlo: 0.0008
+  - uno: 0.0006
+  - jajaja: 0.0006
+  - Nunca: 0.0006
+  - ajaj: 0.0006
+  - ajaja: 0.0006
+  - ditos: 0.0006
+  - dre: 0.0006
+FIN DE PRUEBA
+[2026-06-28 23:58:50]
+Texto extraido de Gemini:
+Yo matrimoniada,pero no le quiero ser infiel [emoji_cara_suplicante][emoji_cara_suplicante] Entonces habla, exprésate con el dile lo que quieres De todas las formas [emoji_cara_suplicante] me huye. Tal vez como llevamos 17 años pues ya se aburrió No manches amiga y eso que estás bien guapa [emoji_cara_llorando_fuerte]
+Resultado: Acoso
+  - infiel: 0.1054
+  - ser: 0.0664
+  - habla: 0.0634
+  - exprés: 0.0525
+  - tonces: 0.0512
+  - ate: 0.0443
+  - huye: 0.0414
+  - quieres: 0.0333
+  - dile: 0.0305
+  - icante: 0.0166
+  - todas: 0.0155
+  - que: 0.011
+  - cara: 0.0086
+  - pero: 0.0061
+  - quiero: 0.0055
+FIN DE PRUEBA
+[2026-06-28 23:59:38]
+Texto extraido de Gemini:
+Yo tuve uno así que horror [emoji_cara_llorando_de_risa] Ayyy mana que horror jajaja [emoji_dos_corazones][emoji_cara_sacando_la_lengua_y_guiñando_un_ojo] Siiii [emoji_cara_sonrojada] Afortunadamente ya saliste de ahí hermana, que aguante [emoji_cara_agotada][emoji_dedos_juntos_apuntando_hacia_arriba] 2 albondigas me como yo y con tortillasssss [emoji_cara_llorando_de_risa]
+Resultado: Neutral
+  - cora: 0.0006
+  - sal: 0.0003
+  - iste: 0.0003
+  - tuve: 0.0002
+  - uno: 0.0002
+  - jajaja: 0.0002
+  - zones: 0.0002
+  - que: 0.0001
+  - horror: 0.0001
+  - dos: 0.0001
+  - ojo: 0.0001
+  - hermana: 0.0001
+  - así: 0.0
+  - cara: 0.0
+  - lor: 0.0
+FIN DE PRUEBA
+[2026-06-29 00:02:00]
+Texto extraido de Gemini:
+Cada vez que veo roro me siento muy inútil [emoji_cara_llorando_de_risa][emoji_cara_revolviéndose_de_la_risa] igual la amo, me encanta [emoji_cara_sonriendo_con_corazones] Nos sentimos [emoji_cara_llorando_de_risa] mana x10 y viendo un blog de ella me doy cuenta que el día para ella tiene 70 horas X2 Que chiste habrá contado Pablo?
+Resultado: Neutral
+  - cora: 0.0006
+  - ella: 0.0006
+  - siento: 0.0003
+  - encanta: 0.0003
+  - zones: 0.0003
+  - para: 0.0003
+  - veo: 0.0001
+  - inútil: 0.0001
+  - risa: 0.0001
+  - vol: 0.0001
+  - viéndose: 0.0001
+  - Nos: 0.0001
+  - sentimos: 0.0001
+  - viendo: 0.0001
+  - blog: 0.0001
+FIN DE PRUEBA
+[2026-06-29 00:03:19]
+Texto extraido de Gemini:
+yo que trago y trago y no supo de peso[emoji_cara_llorando_de_risa] Monito feliz [emoji_mono][emoji_mono][emoji_mono] [emoji_cara_sonrojada][emoji_cara_sonrojada] Yo soy la hermana del enojon [emoji_cara_sonrojada][emoji_mono_con_los_ojos_tapados][emoji_cara_llorando_de_risa][emoji_cara_revolviéndose_de_la_risa] Monito feliz [emoji_mono][emoji_mono][emoji_mono] [emoji_cara_sonrojada][emoji_cara_sonrojada][emoji_cara_sonrojada]
+Resultado: Neutral
+  - feliz: 0.0003
+  - hermana: 0.0002
+  - del: 0.0002
+  - que: 0.0001
+  - trago: 0.0001
+  - lor: 0.0001
+  - ando: 0.0001
+  - risa: 0.0001
+  - mono: 0.0001
+  - soy: 0.0001
+  - con: 0.0001
+  - vol: 0.0001
+  - viéndose: 0.0001
+  - supo: 0.0
+  - peso: 0.0
+FIN DE PRUEBA
+[2026-06-29 00:07:34]
+Texto extraido de Gemini:
+sin Faja Con Faja [emoji_mujer_encogida_de_hombros_tono_de_piel_medio] Asta acá sentí la envidia yo viendo que hay más hate de hombres que de mujeres, la envidia no tiene género. [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa]
+Resultado: Neutral
+  - más: 0.0231
+  - acá: 0.023
+  - hay: 0.0188
+  - envidia: 0.0158
+  - viendo: 0.0154
+  - sentí: 0.0126
+  - que: 0.0123
+  - medio: 0.0112
+  - mujeres: 0.0059
+  - género: 0.0024
+  - hombres: 0.0012
+  - tiene: 0.001
+  - sin: 0.0001
+  - aja: 0.0001
+  - Con: 0.0001
+FIN DE PRUEBA
+[2026-06-29 00:08:19]
+Texto extraido de Gemini:
+Se me quitó el FOMO (Y las pinches ganas de regresar) yo me mie en el metro [emoji_cara_llorando_fuerte][emoji_cara_suplicante][emoji_cara_llorando_fuerte] Que pinche asco que todavia lo comentes yo me mié caminando [emoji_cara_llorando_fuerte] ni modo, le pasó a muchos xd ay chica, que oso
+Resultado: Neutral
+  - caminando: 0.059
+  - pasó: 0.0579
+  - asco: 0.0504
+  - que: 0.045
+  - entes: 0.0403
+  - pinche: 0.039
+  - oso: 0.036
+  - muchos: 0.035
+  - com: 0.0232
+  - Que: 0.0191
+  - lor: 0.0134
+  - modo: 0.0129
+  - fuerte: 0.0114
+  - chica: 0.0049
+  - ando: 0.0045
+FIN DE PRUEBA
+[2026-06-29 00:11:03]
+Texto extraido de Gemini:
+Despedida nada más entrar jajaja Como no eres nadie pues a callar [emoji_cara_sonriendo_con_corazones] Entonces respóndeme cuando seas alguien tú también [emoji_cara_con_manos_abrazando] Más q tu soy,no doy la opinión q nadie m ha pedido
+Resultado: Acoso
+  - eres: 0.2645
+  - alguien: 0.1036
+  - pón: 0.0996
+  - callar: 0.0975
+  - seas: 0.0928
+  - cora: 0.0725
+  - nadie: 0.0704
+  - jajaja: 0.0696
+  - res: 0.0493
+  - tonces: 0.045
+  - cuando: 0.045
+  - ped: 0.0449
+  - Des: 0.0306
+  - zones: 0.0297
+  - dem: 0.022
+FIN DE PRUEBA
+[2026-06-29 00:12:53]
+Texto extraido de Gemini:
+es bien feo!! pero me encantaaaaaa [emoji_cara_aguantándose_las_lágrimas] El tuyo será guapo seguro! [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] es un inche Shrek con lentes [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] No es eso, sino que es de esos chicos no agraciados con mucha gracia. Tiene un no se que
+Resultado: Neutral
+  - tuyo: 0.0455
+  - con: 0.0284
+  - lentes: 0.0284
+  - grimas: 0.0265
+  - será: 0.0215
+  - esos: 0.0158
+  - chicos: 0.0158
+  - risa: 0.0107
+  - agra: 0.0104
+  - ciados: 0.0104
+  - bien: 0.0102
+  - feo: 0.0102
+  - eso: 0.01
+  - mucha: 0.0099
+  - gracia: 0.0097
+FIN DE PRUEBA
+[2026-06-29 00:20:29]
+Texto extraido de Gemini:
+por el bien de chimalhuacan no subas nada porfavor [emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_cara_llorando_fuerte][emoji_corazón_en_llamas] subiré las veces que quiera [emoji_cara_revolviéndose_de_la_risa] COMO SUBIA LAS ESCALERAS JAJAJA quería subir bailando pero no me salió [emoji_cara_llorando_de_risa] ah ese es el parque de la sirena bueno así se conoce mayormente
+Resultado: Neutral
+  - subir: 0.0113
+  - cora: 0.0058
+  - llam: 0.003
+  - las: 0.0024
+  - risa: 0.0023
+  - conoce: 0.002
+  - parque: 0.0014
+  - zón: 0.0013
+  - así: 0.0012
+  - lor: 0.0011
+  - mayormente: 0.001
+  - quiera: 0.0009
+  - ese: 0.0008
+  - que: 0.0007
+  - fuerte: 0.0006
+FIN DE PRUEBA
+[2026-06-29 00:24:56]
+Texto extraido de Gemini:
+yo te cocino [emoji_corazón_rojo] Repostería [emoji_marca_de_cruz] Reporqueria [emoji_botón_de_marca_de_verificación] Se me hiso mrd la boca [emoji_corazón_morado] que malos son, le quedó bien [emoji_cara_sonriendo_con_corazones] No sean así, si le quedo [emoji_cara_sonriendo_con_corazones] Me preocupé desde que dijiste que tu cocinas [emoji_cara_sonriendo_con_corazones][emoji_cara_sonriendo_con_corazones]
+Resultado: Acoso
+  - son: 0.1508
+  - malos: 0.1503
+  - que: 0.0712
+  - cora: 0.0498
+  - bien: 0.0414
+  - dij: 0.0365
+  - iste: 0.0365
+  - coci: 0.0301
+  - zones: 0.0301
+  - queria: 0.0262
+  - ado: 0.0201
+  - desde: 0.0201
+  - mor: 0.0189
+  - cocinas: 0.0159
+  - por: 0.0139
+FIN DE PRUEBA
+[2026-06-29 00:31:07]
+Texto extraido de Gemini:
+Jajaja nombre Ami me agarra como maraca y la verdad es bueno en el sexo a pesar de todo lo sigo amando y es y será siempre mi gordito creo antes de casarse ay que pensar bien las cosas para no después verlo o decirle el gordo la neta Era mi ex Me gustaba bastante Pero me defraudó en la cama chiquita ni la sentía [emoji_cara_haciendo_una_mueca][emoji_cara_agotada][emoji_cara_llorando_de_risa] Pues a mi me encantaaaaan, gorditos pero que hagan ejercicio uffff no te vas a arrepentir [emoji_cara_guiñando_el_ojo][emoji_cara_saboreando_comida][emoji_cara_feliz_con_ojos_sonrientes][emoji_cara_llorando_de_risa] Tienen un pitillo y no aguantan nada la verdad Jjaja le pedí foto de su deste y se le miraba tamaño regular y bueno hicimos la cita y en efecto está gordito, yo nunca había andado
+Resultado: Neutral
+  - feliz: 0.0003
+  - vas: 0.0001
+  - foto: 0.0001
+  - deste: 0.0001
+  - había: 0.0001
+  - ajaja: 0.0
+  - nombre: 0.0
+  - agarra: 0.0
+  - como: 0.0
+  - mara: 0.0
+  - verdad: 0.0
+  - bueno: 0.0
+  - sexo: 0.0
+  - pesar: 0.0
+  - todo: 0.0
+FIN DE PRUEBA
+[2026-06-29 00:34:54]
+Texto extraido de Gemini:
+En pre y el oral él más rifado, besaba delicioso [emoji_cara_sonriendo_con_corazones][emoji_cara_babeando] no ocupaba llegar a la penetración, Porque con todo lo que me hacía tenia como 10 orgasmos, así que ya lo demás salía sobrando (porque si la tenía chiquita) Mi esposo es gordito jajajaja y me da unos orgasmos ufffff [emoji_colisión][emoji_fuego] AuthenticQuince7212 x2 [emoji_cara_sonriente] Yo nunca he estado con alguien gordito , pero tengo ganas [emoji_cara_con_manos_abrazando][emoji_cara_haciendo_una_mueca] tal vez ellos le echan más ganas [emoji_cara_sacando_la_lengua_y_guiñando_un_ojo] Yo estuve con uno pero si la tenía demasiado pequeña demasiado y no estaba gordo cuando yo mire eso me dio una vergüenza jajaja ahí no encerio no exagero
+Resultado: Neutral
+  - ahí: 0.0008
+  - pero: 0.0001
+  - tengo: 0.0001
+  - pre: 0.0
+  - oral: 0.0
+  - más: 0.0
+  - rif: 0.0
+  - ado: 0.0
+  - bes: 0.0
+  - aba: 0.0
+  - delicioso: 0.0
+  - cara: 0.0
+  - son: 0.0
+  - riendo: 0.0
+  - con: 0.0
+FIN DE PRUEBA
+[2026-06-29 00:40:49]
+Texto extraido de Gemini:
+Por qué son así?? ella solo quiere compartir un poco de su felicidad y solo la juzgan [emoji_cara_triste_pero_aliviada] No la juzgan, le dicen que compre una talla más grande, o que puede ver mejores opciones [emoji_cara_guiñando_el_ojo] o que se planche mejor el cabello. y si consigue talla grande la empiezan hacer bullying qué deje de comer para ser una talla chico ... [emoji_cara_triste_pero_aliviada] si la juzgan y critican
+Resultado: Neutral
+  - compre: 0.0538
+  - ella: 0.0351
+  - opciones: 0.0342
+  - más: 0.0314
+  - solo: 0.0283
+  - que: 0.0272
+  - son: 0.025
+  - una: 0.0215
+  - qué: 0.0147
+  - felicidad: 0.0121
+  - mejores: 0.0117
+  - dicen: 0.0116
+  - mejor: 0.0102
+  - juz: 0.0095
+  - puede: 0.0087
+FIN DE PRUEBA
+[2026-06-29 00:41:37]
+Texto extraido de Gemini:
+el short, estoy cansado jefe, ya le han dicho que no ocupe ropa apretada y no entiende Con respecto al Short puedes enviarle unos a su Pobox. Y si le gusta la ropa apretada [emoji_mujer_encogida_de_hombros_tono_de_piel_claro]. Que publique sus vídeos no quiere decir que haga todo lo que las odiosas opinan solo le tiene q gustar a ella no a ti [emoji_cara_guiñando_el_ojo] Jaaja y porque te enojas [emoji_cara_guiñando_el_ojo]
+Resultado: Neutral
+  - puedes: 0.0992
+  - enviarle: 0.0814
+  - eno: 0.0484
+  - jas: 0.0484
+  - opinan: 0.0402
+  - solo: 0.0402
+  - unos: 0.0376
+  - tiene: 0.0325
+  - entiende: 0.0292
+  - Con: 0.0268
+  - gui: 0.0223
+  - ñando: 0.0223
+  - ojo: 0.0205
+  - vídeos: 0.0182
+  - respecto: 0.0169
+FIN DE PRUEBA
+[2026-06-29 00:42:16]
+Texto extraido de Gemini:
+¡Que no eres talla M! ¡Entiendeeeeee! [emoji_cara_llorando_fuerte][emoji_corazón_rojo] Las cuentas sin fotos ni videos no participan Mi amor mi TikTok es público así que anda a chismosearme para que veas lo bella que soy y que además no ando de cuenta en cuanta criticando a otras mujeres [emoji_cara_sonriendo_con_superioridad] Justo solo así la critícan, con fotos de internet o sin foto [emoji_mujer_con_la_mano_en_la_frente_tono_de_piel_claro_medio]
+Resultado: Acoso
+  - ior: 0.1309
+  - idad: 0.1043
+  - super: 0.0724
+  - amor: 0.0362
+  - eres: 0.0352
+  - videos: 0.0248
+  - zón: 0.0222
+  - can: 0.0218
+  - cri: 0.0214
+  - criticando: 0.0194
+  - fotos: 0.0174
+  - tono: 0.0172
+  - sin: 0.0146
+  - cora: 0.0141
+  - ando: 0.0139
+FIN DE PRUEBA
+[2026-06-29 00:48:44]
+Texto extraido de Gemini:
+Como hacen para que sus conchas se abran y se cierren? La mía se abre y no vuelve a cerrarse mas:( Esta sufriendo no disfrutando [emoji_cara_con_ojos_en_blanco] Britez Taly yo solo pude pensar en "pobrecita [emoji_cara_suplicante]" Britez Taly pensé lo mismo. Pero la gente se rie de unas estupideces Britez Taly cierto pinche gente burra alch
+Resultado: Acoso
+  - estup: 0.3919
+  - bur: 0.1533
+  - pinche: 0.1527
+  - eces: 0.1123
+  - gente: 0.1096
+  - tez: 0.05
+  - Tal: 0.0306
+  - unas: 0.0212
+  - Pero: 0.0089
+  - pensé: 0.0064
+  - Bri: 0.0058
+  - cierto: 0.0047
+  - pude: 0.0035
+  - que: 0.0028
+  - pensar: 0.0026
+FIN DE PRUEBA
+[2026-06-29 00:50:49]
+Texto extraido de Gemini:
+y yo viendo en como tan solo 5 minutos este personaje se comio las uñas [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] recién lo vi y también lo noté jajaja tenía hambre que se comía las uñas [emoji_cara_llorando_de_risa][emoji_cara_revolviéndose_de_la_risa] [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa]
+Resultado: Neutral
+  - jajaja: 0.0105
+  - hambre: 0.0095
+  - lor: 0.0045
+  - risa: 0.0025
+  - vol: 0.0017
+  - viéndose: 0.0017
+  - personaje: 0.0012
+  - este: 0.0011
+  - que: 0.0011
+  - viendo: 0.0009
+  - cara: 0.0007
+  - ando: 0.0007
+  - comía: 0.0007
+  - tan: 0.0003
+  - solo: 0.0003
+FIN DE PRUEBA
+[2026-06-29 00:55:48]
+Texto extraido de Gemini:
+No se ataquen, así se llaman todos mis videos, si le ponía flaquibuena también me funaban peor [emoji_cara_con_manos_abrazando] comió bastante comida y no fueron ni 2000 calorías [emoji_señal_de_aprobación_con_la_mano][emoji_señal_de_aprobación_con_la_mano][emoji_señal_de_aprobación_con_la_mano][emoji_corazón_rojo][emoji_corazón_rojo][emoji_corazón_rojo] Si exacto, es la diferencia de comer alimentos de buena calidad nutricional, versus alimentos muy densos caloricamente y casi sin nutrientes Veee el miooo pleaseeeee [emoji_mano_saludando]
+Resultado: Acoso
+  - bastante: 0.0322
+  - comida: 0.0089
+  - cora: 0.0061
+  - ibu: 0.0052
+  - ena: 0.0052
+  - ata: 0.0045
+  - quen: 0.0037
+  - casi: 0.0037
+  - mis: 0.0035
+  - abra: 0.003
+  - manos: 0.0028
+  - nutrientes: 0.0027
+  - cara: 0.0025
+  - fla: 0.0024
+  - sin: 0.0024
+FIN DE PRUEBA
+[2026-06-29 00:56:55]
+Texto extraido de Gemini:
+el chistosin joker: [emoji_marca_de_cruz] yo que w : [emoji_botón_de_marca_de_verificación] El grason [emoji_cara_llorando_de_risa] Más bn el garrafón
+Resultado: Neutral
+  - cara: 0.0487
+  - marca: 0.0457
+  - oker: 0.0391
+  - garra: 0.0335
+  - fón: 0.0335
+  - tos: 0.032
+  - risa: 0.0306
+  - cruz: 0.0269
+  - ando: 0.0227
+  - gras: 0.021
+  - ver: 0.008
+  - tón: 0.007
+  - lor: 0.0058
+  - Más: 0.0055
+  - chis: 0.005
+FIN DE PRUEBA
+[2026-06-29 01:04:43]
+Texto extraido de Gemini:
+Güey, me estoy esperando mi camión y fui al OXXO a ponerme una recarga, noo pero te quedó muy bonita, yo creo que solo no está acostumbrada a ver contornos marcados [emoji_cara_llorando_fuerte] es que en fotos funciona pero en persona si se ve rarísimo Esque también tú [emoji_cara_aguantándose_las_lágrimas] esqe se me cae muy rápido, si m lo dejo muy suave a los 5 minutos se me borra HAHSHWHDH [emoji_cara_aguantándose_las_lágrimas][emoji_cara_aguantándose_las_lágrimas]
+Resultado: Neutral
+  - muy: 0.0001
+  - también: 0.0001
+  - grimas: 0.0001
+  - cae: 0.0001
+  - rápido: 0.0001
+  - estoy: 0.0
+  - esperando: 0.0
+  - camión: 0.0
+  - fui: 0.0
+  - ponerme: 0.0
+  - una: 0.0
+  - recarga: 0.0
+  - pero: 0.0
+  - quedó: 0.0
+  - bonita: 0.0
+FIN DE PRUEBA
+[2026-06-29 01:05:05]
+Texto extraido de Gemini:
+Güey, me estoy esperando mi camión y fui al OXXO a ponerme una recarga, noo pero te quedó muy bonita, yo creo que solo no está acostumbrada a ver contornos marcados [emoji_cara_llorando_fuerte] es que en fotos funciona pero en persona si se ve rarisimo Esque también tú [emoji_cara_aguantándose_las_lágrimas] esqe se me cae muy rápido, si m lo dejo muy suave a los 5 minutos se me borra HAHSHWHDH [emoji_cara_aguantándose_las_lágrimas][emoji_cara_aguantándose_las_lágrimas]
+Resultado: Neutral
+  - muy: 0.0002
+  - grimas: 0.0002
+  - cae: 0.0002
+  - rápido: 0.0002
+  - también: 0.0001
+  - las: 0.0001
+  - suave: 0.0001
+  - estoy: 0.0
+  - esperando: 0.0
+  - camión: 0.0
+  - fui: 0.0
+  - ponerme: 0.0
+  - una: 0.0
+  - recarga: 0.0
+  - pero: 0.0
+FIN DE PRUEBA
+[2026-06-29 01:06:50]
+Texto extraido de Gemini:
+"yo yo yo yo yo yo yoooo....y yo" misterio resuelto [emoji_cara_suplicante] "Todos estan mal, menos yo [emoji_chispas][emoji_chispas][emoji_chispas]" claramente un ego exaltado. El ego es diferente, eso más su locura emocional y trauma cerebral Creo que es por la actitud [emoji_cara_sonrojada]
+Resultado: Neutral
+  - cerebral: 0.0436
+  - emocional: 0.0339
+  - trauma: 0.0326
+  - locura: 0.0254
+  - por: 0.0253
+  - eso: 0.0182
+  - Creo: 0.0065
+  - que: 0.0039
+  - cara: 0.0026
+  - más: 0.002
+  - actitud: 0.0017
+  - diferente: 0.0009
+  - son: 0.0008
+  - jada: 0.0008
+  - mal: 0.0003
+FIN DE PRUEBA
+[2026-06-29 04:36:42]
+Texto extraido de Gemini:
+Hola no quieres ver mi [emoji_berenjena][emoji_cara_sonriendo_con_cuernos] Hola si quiero ver tu [emoji_pingüino] Abierto Te toca [emoji_berenjena] Hola ? Wow q riko [emoji_cara_saboreando_comida] Foto Wow que grande [emoji_berenjena][emoji_señal_de_aprobación_con_la_mano] Wow amor Vas a salir JAJAJAJJAJJA En mi presentación Wow
+Resultado: Acoso
+  - nos: 0.1281
+  - cuer: 0.1171
+  - Abierto: 0.0886
+  - ber: 0.0413
+  - enj: 0.0378
+  - ena: 0.0348
+  - quieres: 0.0325
+  - con: 0.0242
+  - ver: 0.0228
+  - ingü: 0.0135
+  - ino: 0.0095
+  - cara: 0.0062
+  - Hola: 0.0044
+  - quiero: 0.0023
+  - toca: 0.0022
+FIN DE PRUEBA
+[2026-06-29 04:40:43]
+Texto extraido de Gemini:
+Vas a venir? Pa llevar tus cosas KAKAKA hola no creo apenas me desperté Hoy su fuiste? Si ya me dijo abichi Gracias y perdon Uaja simoon, ya fue abi por ellas? O voy yo No, que ahorita que entré abi al servicio
+Resultado: Neutral
+  - entré: 0.1551
+  - Gracias: 0.1122
+  - Vas: 0.0432
+  - perdon: 0.0298
+  - sim: 0.0225
+  - iste: 0.0215
+  - tus: 0.0211
+  - que: 0.0182
+  - servicio: 0.0164
+  - ichi: 0.0142
+  - venir: 0.0121
+  - dijo: 0.01
+  - apenas: 0.0098
+  - creo: 0.0093
+  - por: 0.0093
+FIN DE PRUEBA
+[2026-06-29 05:37:33]
+Texto extraido de Gemini:
+Enséñame tu vrg rica [emoji_cara_babeando][emoji_cara_babeando] Hola, porfavor no me molestes Como tienes mi número? quiero ver cuánto te mide [emoji_mano_pellizcando] [emoji_cara_suplicante][emoji_manos_en_oración][emoji_manos_en_oración][emoji_manos_en_oración] Como tienes mi número?
+Soy tu fan, anda enséñame un poco Déjame en paz, te voy a bloquear, naca Si así te gusta que te traten, putita [emoji_boca]
+Resultado: Acoso
+  - paz: 0.07
+  - número: 0.0489
+  - fan: 0.0354
+  - tes: 0.0328
+  - moles: 0.0296
+  - que: 0.0262
+  - traten: 0.0262
+  - ame: 0.0252
+  - Hola: 0.0227
+  - voy: 0.0219
+  - bloquear: 0.0218
+  - abe: 0.0214
+  - ando: 0.0204
+  - gusta: 0.0178
+  - mano: 0.0177
+FIN DE PRUEBA
+[2026-06-29 05:38:17]
+Texto extraido de Gemini:
+Si ya te deja? Sip todo bien gracias [emoji_cara_con_manos_abrazando] Soloe dejo hacer 2 Se está tardando [emoji_cara_suplicante] Soloe dejo hacer Ora
+Resultado: Neutral
+  - cara: 0.0359
+  - zando: 0.0345
+  - gracias: 0.0194
+  - bien: 0.0178
+  - manos: 0.0161
+  - abra: 0.0119
+  - deja: 0.0027
+  - con: 0.0023
+  - todo: 0.0008
+  - Solo: 0.0001
+  - dejo: 0.0001
+  - hacer: 0.0001
+  - icante: 0.0001
+  - está: 0.0
+  - tard: 0.0
+FIN DE PRUEBA
+[2026-06-29 05:59:22]
+Texto extraido de Gemini:
+Si ya te deja? Sip todo bien gracias [emoji_cara_con_manos_abrazando] Soloe dejo hacer 2 Se está tardando [emoji_cara_suplicante] Joy
+Soloe dejo hacer
+Ora
+Resultado: Neutral
+  - zando: 0.0315
+  - cara: 0.0309
+  - gracias: 0.0154
+  - abra: 0.014
+  - bien: 0.0139
+  - manos: 0.0139
+  - con: 0.003
+  - deja: 0.0021
+  - todo: 0.0005
+  - hacer: 0.0003
+  - dejo: 0.0002
+  - Joy: 0.0002
+  - Solo: 0.0001
+  - está: 0.0001
+  - ando: 0.0001
+FIN DE PRUEBA
+[2026-06-29 06:00:17]
+Texto extraido de Gemini:
+Si ya te deja? Sip todo bien gracias [emoji_cara_con_manos_abrazando] Soloe dejo hacer 2 Se está tardando [emoji_cara_suplicante] Soloe dejo hacer
+Ora
+Resultado: Neutral
+  - ando: 0.0356
+  - zando: 0.0173
+  - cara: 0.0133
+  - gracias: 0.0105
+  - bien: 0.009
+  - manos: 0.008
+  - abra: 0.0063
+  - hacer: 0.0061
+  - Solo: 0.0029
+  - icante: 0.0014
+  - con: 0.001
+  - deja: 0.0009
+  - dejo: 0.0006
+  - todo: 0.0004
+  - está: 0.0001
+FIN DE PRUEBA
+[2026-06-29 06:04:26]
+Texto extraido de Gemini:
+Si ya te deja? Sip todo bien gracias [emoji_cara_con_manos_abrazando] Soloe dejo hacer 2 Se está tardando [emoji_cara_suplicante] Joy
+Soloe dejo hacer
+Ora
+Resultado: Neutral
+  - zando: 0.0315
+  - cara: 0.0309
+  - gracias: 0.0154
+  - abra: 0.014
+  - bien: 0.0139
+  - manos: 0.0139
+  - con: 0.003
+  - deja: 0.0021
+  - todo: 0.0005
+  - hacer: 0.0003
+  - dejo: 0.0002
+  - Joy: 0.0002
+  - Solo: 0.0001
+  - está: 0.0001
+  - ando: 0.0001
+FIN DE PRUEBA
+[2026-07-01 02:01:00]
+Texto extraido de Gemini:
+Eso que Diego Te doy asquito Pero dime con tiempo soy un hombre ocupado Mmmmtaaa Va Pues perdón Te vez bn linda en tu foto Pasamela si? No Diego que vas a hacer Basta No me dediques nada aún Por favor JAAJ ↓
+Resultado: Acoso
+  - foto: 0.1759
+  - vas: 0.0938
+  - tiempo: 0.0828
+  - ocupado: 0.0665
+  - Eso: 0.061
+  - ela: 0.0417
+  - Diego: 0.0382
+  - doy: 0.038
+  - perdón: 0.0334
+  - quito: 0.0289
+  - que: 0.0287
+  - vez: 0.0272
+  - hacer: 0.0265
+  - mmm: 0.0171
+  - dime: 0.0123
+FIN DE PRUEBA
+[2026-07-01 02:01:46]
+Texto extraido de Gemini:
+Respondió a tu historia Pásame tu fon guapa Acosador Jajaja Ya pásamelo Sáquese mugroso
+Resultado: Acoso
+  - oso: 0.122
+  - historia: 0.1141
+  - ador: 0.0558
+  - cos: 0.0303
+  - ame: 0.0296
+  - guapa: 0.005
+  - ques: 0.0037
+  - ajaja: 0.003
+  - elo: 0.0015
+  - fon: 0.0014
+  - Res: 0.0007
+  - pon: 0.0002
+  - dió: 0.0
+FIN DE PRUEBA
+[2026-07-01 02:02:29]
+Texto extraido de Gemini:
+Ay puta fuiste a hacer cruising sorra [emoji_cara_llorando_de_risa] Si we Faltadte tu Lq zorra mayor Lq zorra mayor A mi si me alcanza para mi posadita de 6 horas 150 [emoji_marca_de_beso][emoji_manos_en_oración] Hasta entre zorras hay niveles JAJAJAJAJA JAJAJAJ Si we Puta jodida
+Resultado: Acoso
+  - zorra: 0.1558
+  - puta: 0.1268
+  - Fal: 0.0562
+  - iste: 0.0487
+  - niveles: 0.0465
+  - mayor: 0.0362
+  - orras: 0.033
+  - tad: 0.0309
+  - ida: 0.0235
+  - jod: 0.0221
+  - hacer: 0.0183
+  - entre: 0.0154
+  - oración: 0.0111
+  - lor: 0.0081
+  - Hasta: 0.007
+FIN DE PRUEBA
+[2026-07-01 02:03:15]
+Texto extraido de Gemini:
+Subes puras mamadas, me das asco neta matate y ahorrale algo al mundo Subes puras mamadas, me das asco neta matate y ahorrale algo al mundo Así se ve la puta envidia Puto viejo Pelón Pendejon
+Resultado: Acoso
+  - asco: 0.1923
+  - puta: 0.1779
+  - das: 0.1121
+  - tate: 0.0393
+  - mam: 0.0384
+  - adas: 0.0376
+  - Sub: 0.026
+  - ale: 0.0198
+  - algo: 0.0185
+  - mundo: 0.0153
+  - uras: 0.0129
+  - envidia: 0.0082
+  - neta: 0.0055
+  - Así: 0.0037
+  - ahor: 0.0015
+FIN DE PRUEBA
+[2026-07-01 02:03:46]
+Texto extraido de Gemini:
+[emoji_cara_sonriendo_con_corazones] [emoji_cara_de_loco] Reaccionó a tu historia [emoji_cara_sonriendo_con_ojos_de_corazón] Chia Acosador
+Resultado: Acoso
+  - cora: 0.066
+  - ador: 0.0515
+  - historia: 0.0441
+  - con: 0.0419
+  - accion: 0.0366
+  - cara: 0.0358
+  - cos: 0.0251
+  - zones: 0.0144
+  - riendo: 0.0115
+  - zón: 0.0107
+  - jos: 0.0095
+  - son: 0.0028
+FIN DE PRUEBA
+[2026-07-01 02:04:23]
+Texto extraido de Gemini:
+No alv Puto mariano Ojalá encuentren la cura d ela homosexualidad Y te la den [emoji_cara_con_símbolos_en_la_boca] WOW por qué? Tanto te urge curarte? [emoji_cara_pidiendo_silencio] Hay que pensar antes de hablar
+Resultado: Acoso
+  - encio: 0.1359
+  - antes: 0.1061
+  - pid: 0.0746
+  - sil: 0.07
+  - homosexualidad: 0.0604
+  - boca: 0.0546
+  - den: 0.0462
+  - iendo: 0.0272
+  - Hay: 0.0198
+  - bol: 0.0186
+  - hablar: 0.0184
+  - cura: 0.0124
+  - arte: 0.0117
+  - iano: 0.0104
+  - cara: 0.01
+FIN DE PRUEBA
+[2026-07-02 00:02:20]
+Texto extraido de Gemini:
+25 años [emoji_cara_sonrojada]... me veo mas joven yo que tengo 40 [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] y? holaa [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] tengo 30 y me da miedo llegar alos 25 [emoji_cara_sonriendo_con_sudor_frío][emoji_cara_llorando_de_risa][emoji_cara_con_manos_abrazando]
+Resultado: Neutral
+  - miedo: 0.0015
+  - frío: 0.0013
+  - abra: 0.0003
+  - zando: 0.0003
+  - hola: 0.0002
+  - llegar: 0.0002
+  - manos: 0.0002
+  - cara: 0.0001
+  - veo: 0.0001
+  - mas: 0.0001
+  - joven: 0.0001
+  - que: 0.0001
+  - tengo: 0.0001
+  - lor: 0.0001
+  - ando: 0.0001
+FIN DE PRUEBA
+[2026-07-02 00:03:42]
+Texto extraido de Gemini:
+[emoji_corazón_morado] Yuniii [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa] Pero tu si ponte a limpiar [emoji_cara_de_payaso][emoji_cara_de_payaso] pero tu si y no haces nada Solo sirves para responder pend3jds, en lugar de que se pongan a trabajar y tus papás descansen, tienen que mantener a 2 zánganos [emoji_cara_de_loco][emoji_ojos][emoji_ojo][emoji_rosa] Yuniii [emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa][emoji_cara_llorando_de_risa]
+Resultado: Acoso
+  - haces: 0.0566
+  - nada: 0.0566
+  - yas: 0.0326
+  - tus: 0.0302
+  - limpiar: 0.0268
+  - sir: 0.0251
+  - Solo: 0.024
+  - ves: 0.0215
+  - ganos: 0.0169
+  - mantener: 0.0132
+  - pero: 0.0119
+  - pongan: 0.0114
+  - que: 0.0104
+  - tienen: 0.0104
+  - lugar: 0.0101
+FIN DE PRUEBA
+[2026-07-02 00:04:19]
+Texto extraido de Gemini:
+Primera. Y última vez que vemos el baño Blanco Envidiosa señora [emoji_cara_llorando_de_risa][emoji_puño_cerrado] envidia de que mija , de ser una puerca y una cochina? jaja ridícula Amiga y en qué te afecta, mejor ponte a ver un tutorial para hacerte bonita la ceja [emoji_corazón_rojo]
+Resultado: Acoso
+  - coch: 0.1649
+  - ina: 0.1485
+  - ser: 0.1032
+  - puer: 0.0863
+  - una: 0.0528
+  - señora: 0.0143
+  - iosa: 0.0132
+  - vez: 0.0127
+  - vemos: 0.0095
+  - vid: 0.0087
+  - que: 0.0084
+  - risa: 0.0059
+  - cer: 0.0051
+  - rado: 0.0048
+  - cara: 0.0044
+FIN DE PRUEBA
+[2026-07-02 00:38:12]
+Texto extraido de Gemini:
+Amigaaaa ni se lo puede creer jaja [emoji_cara_revolviéndose_de_la_risa] no se si este guapo pero ella no esta menos guapa [emoji_cara_llorando_de_risa]
+Resultado: Acoso
+  - guapo: 0.1971
+  - ella: 0.102
+  - iga: 0.062
+  - aaa: 0.0497
+  - pero: 0.048
+  - menos: 0.0444
+  - risa: 0.0438
+  - cara: 0.0369
+  - este: 0.0323
+  - viéndose: 0.0293
+  - esta: 0.0213
+  - jaja: 0.0158
+  - vol: 0.0139
+  - guapa: 0.0122
+  - puede: 0.0077
+FIN DE PRUEBA
+[2026-07-02 00:40:37]
+Texto extraido de Gemini:
+cómo es guapo no es acoso Que te valga vrga wey, ella es la que decide con quién si y con quién no. no es que sea guapo o feo! es que ella decida si quiere o no. [emoji_cara_con_manos_abrazando] Es que estás evitando el cuestionamiento [emoji_cara_haciendo_una_mueca]. Por qué ella decide si es sí o no. Cuáles son esos factores sociales, culturales que la hacen decidir?
+Resultado: Neutral
+  - estás: 0.0802
+  - factores: 0.0794
+  - feo: 0.0693
+  - Que: 0.0651
+  - decidir: 0.0534
+  - sociales: 0.0499
+  - culturales: 0.0463
+  - valga: 0.039
+  - hacen: 0.0295
+  - decide: 0.028
+  - que: 0.0277
+  - acoso: 0.027
+  - guapo: 0.0262
+  - evitando: 0.0256
+  - áles: 0.0233
+FIN DE PRUEBA
+[2026-07-02 00:42:01]
+Texto extraido de Gemini:
+NO tiene una cualquiert, tiene un funko pop Todos los haters se le fueron al ver que si es una chingona [emoji_cara_sonriendo_con_corazones] define chingona Lo contrario a ti [emoji_cara_sonriendo_con_corazones] Envidioso Mi cara en todo el vídeo [emoji_cara_suplicante][emoji_cara_suplicante]
+Resultado: Acoso
+  - contrario: 0.1009
+  - cora: 0.0884
+  - cualquier: 0.0544
+  - tiene: 0.0507
+  - ing: 0.0377
+  - ters: 0.0374
+  - ona: 0.0298
+  - zones: 0.0248
+  - una: 0.0222
+  - cara: 0.0191
+  - define: 0.017
+  - vídeo: 0.0113
+  - los: 0.0103
+  - pop: 0.0087
+  - Todos: 0.0087
+FIN DE PRUEBA
+[2026-07-02 00:43:22]
+Texto extraido de Gemini:
+pero siempre fue federica jaja xd no hay cambio . Pero delgada [emoji_cara_agotada] Valesita Que pndjta No antes debo de admitir que se veía bien [emoji_cara_llorando_fuerte]
+Resultado: Neutral
+  - jaja: 0.0014
+  - bien: 0.0007
+  - hay: 0.0006
+  - antes: 0.0004
+  - admitir: 0.0004
+  - que: 0.0004
+  - siempre: 0.0003
+  - ica: 0.0003
+  - cambio: 0.0003
+  - fuerte: 0.0003
+  - fue: 0.0002
+  - feder: 0.0002
+  - delgada: 0.0002
+  - ago: 0.0002
+  - tada: 0.0002
+FIN DE PRUEBA
+[2026-07-02 00:45:56]
+Texto extraido de Gemini:
+no mames yo tengo esa blusa [emoji_cara_llorando_fuerte] jajajaja no manches tirala o quemala no te vayas a convertir en eso también haber ?
+Resultado: Acoso
+  - man: 0.1614
+  - vayas: 0.1238
+  - ches: 0.1131
+  - quem: 0.0902
+  - eso: 0.0514
+  - ala: 0.0442
+  - convertir: 0.0312
+  - fuerte: 0.0237
+  - haber: 0.0218
+  - jajajaja: 0.0115
+  - también: 0.0035
+  - mam: 0.0006
+  - tengo: 0.0002
+  - esa: 0.0002
+  - blusa: 0.0002
+FIN DE PRUEBA
+[2026-07-02 00:46:55]
+Texto extraido de Gemini:
+Ya es lo último Se están multiplicando [emoji_cara_agotada][emoji_cara_agotada][emoji_cara_agotada] siiii ya no tienen vergüenza [emoji_cara_suplicante] y la gente que les gusta [emoji_calavera][emoji_calavera][emoji_calavera][emoji_calavera] JAJAJAJA Sii no se que pasa en tik tok en media hora me han salido como 10 parecidas
+Resultado: Acoso
+  - vergüenza: 0.204
+  - tienen: 0.1546
+  - avera: 0.0458
+  - salido: 0.0367
+  - cal: 0.0329
+  - les: 0.0322
+  - que: 0.0227
+  - JAJA: 0.0173
+  - gente: 0.0165
+  - han: 0.0096
+  - hora: 0.008
+  - gusta: 0.0078
+  - media: 0.0057
+  - icante: 0.003
+  - como: 0.0028
+FIN DE PRUEBA
+[2026-07-02 00:47:33]
+Texto extraido de Gemini:
+Ya es lo último Se están multiplicando [emoji_cara_agotada][emoji_cara_agotada][emoji_cara_agotada] siiii ya no tienen vergüenza [emoji_cara_llorando_fuerte] y la gente que les gusta [emoji_calavera][emoji_calavera][emoji_calavera][emoji_calavera] JAJAJAJA Sii no se que pasa en tik tok en media hora me han salido como 10 parecidas Literal
+Resultado: Acoso
+  - vergüenza: 0.135
+  - tienen: 0.1342
+  - avera: 0.0408
+  - cal: 0.0334
+  - cara: 0.0073
+  - están: 0.0048
+  - tada: 0.0044
+  - JAJA: 0.0037
+  - multipl: 0.0033
+  - icando: 0.0033
+  - último: 0.003
+  - ago: 0.0022
+  - iii: 0.0017
+  - han: 0.0003
+  - salido: 0.0003
+FIN DE PRUEBA
+[2026-07-02 00:48:27]
+Texto extraido de Gemini:
+Ya es lo último Se están multiplicando [emoji_cara_vomitando][emoji_cara_vomitando][emoji_cara_vomitando] siiii ya no tienen vergüenza [emoji_cara_llorando_fuerte] y la gente que les gusta [emoji_calavera][emoji_calavera][emoji_calavera][emoji_calavera] JAJAJAJA Sii no se que pasa en tik tok en media hora me han salido como 10 parecidas
+Resultado: Acoso
+  - vergüenza: 0.1652
+  - tienen: 0.1165
+  - cal: 0.0356
+  - avera: 0.0348
+  - les: 0.0172
+  - que: 0.016
+  - gente: 0.0099
+  - iii: 0.007
+  - pasa: 0.0055
+  - itando: 0.0046
+  - lor: 0.0046
+  - ando: 0.0046
+  - gusta: 0.0044
+  - JAJA: 0.0043
+  - han: 0.0039
+FIN DE PRUEBA
+[2026-07-02 14:16:10]
+Texto extraido de Gemini:
+Primera. Y última vez que vemos el baño Blanco Envidiosa señora [emoji_cara_llorando_de_risa][emoji_puño_cerrado] envidia de que mija , de ser una puerca y una cochina? jaja ridícula Amiga y en qué te afecta, mejor ponte a ver un tutorial para hacerte bonita la ceja
+Resultado: Acoso
+  - coch: 0.2
+  - ina: 0.1484
+  - puer: 0.132
+  - señora: 0.0551
+  - iosa: 0.0536
+  - ser: 0.0527
+  - una: 0.0312
+  - envidia: 0.0283
+  - vid: 0.0162
+  - rado: 0.0078
+  - baño: 0.007
+  - Blanco: 0.0058
+  - que: 0.0051
+  - vez: 0.0042
+  - risa: 0.0042
+FIN DE PRUEBA
+[2026-07-02 14:18:01]
+Texto extraido de Gemini:
+Embarazada a los 15 y madre soltera [emoji_cara_con_la_boca_abierta] Wow, no sabía este lado de la moneda de Bárbara [emoji_cara_sonrojada] creo que la imagen que tenia de ella cambió completamente Todo lo que sufriste y pasaste, cambiaste tu vida por tu hija y eres una excelente madre [emoji_corazón_rojo] yo la entiendo perfectamente [emoji_cara_sonriendo_con_corazones] también tuve a mi hija a temprana edad porque quería un amor real, una parte de mi que pudiera amar como siempre quise ser amada [emoji_cara_sonriendo_con_corazones]
+Resultado: Neutral
+  - eres: 0.0007
+  - excelente: 0.0006
+  - cora: 0.0006
+  - zón: 0.0005
+  - madre: 0.0004
+  - zones: 0.0003
+  - moneda: 0.0002
+  - que: 0.0002
+  - sufr: 0.0002
+  - iste: 0.0002
+  - aste: 0.0002
+  - cambi: 0.0002
+  - una: 0.0002
+  - soltera: 0.0001
+  - sabía: 0.0001
+FIN DE PRUEBA
