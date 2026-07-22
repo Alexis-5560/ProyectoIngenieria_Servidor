@@ -17,7 +17,7 @@ import shap
 #uvicorn main:app --reload 
 
 
-genai.configure(api_key="AQ.Ab8RN6LBoVtTT7or2VDLvDFh4XSdZ138MKrqMvhLJD36w9t7Hg") 
+genai.configure(api_key="APIKEY") 
 
 # Ruta del modelo entrenado
 RUTA_MODELO = r"C:\Users\usuario\Desktop\servidor_ia_violencia\mi_modelo_final_acoso1"
